@@ -1,6 +1,8 @@
 # Library-Management-System
 Implementation of Template driven &amp; Reactive forms,Form validation,Password hashing,Role based access,JWT Authentication,AuthGuard,Middleware,HTTP Interceptors,Services,Proxy Configuration,HTTP requests,Controller,Components &amp; Directives,Profile,Pagination,Pipes,Primary &amp; Foreign key,Populate,Add,Update,Delete,Bulk upload &amp; bulk delete concepts.
 
+User
+
 ![image](https://user-images.githubusercontent.com/66171389/198881453-05c3e5fc-a3fb-4811-ac04-eafded9f7749.png)
 
 ![image](https://user-images.githubusercontent.com/66171389/198881397-2a1462af-1d0d-484e-a04f-cf89af9a79eb.png)
@@ -13,9 +15,24 @@ Implementation of Template driven &amp; Reactive forms,Form validation,Password 
 
 ![image](https://user-images.githubusercontent.com/66171389/198881523-33e19b45-6ca8-46b1-be73-2bce2291afd4.png)
 
+![image](https://user-images.githubusercontent.com/66171389/198881737-ef90a032-d26b-47d2-8e03-80e4f3e467d8.png)
+
+Admins
+
+![image](https://user-images.githubusercontent.com/66171389/198881822-3d5c9b3a-c9ee-43a1-989d-9b713751aeeb.png)
+
+![image](https://user-images.githubusercontent.com/66171389/198881952-6d0b0fe0-373e-4eee-947a-fda3326111dc.png)
+
+![image](https://user-images.githubusercontent.com/66171389/198881971-695720fc-d3f8-4e34-b6fa-4d9591ff8fcd.png)
+
+Postman
+
 ![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
 
+MongoDB Cloud
+
 ![image](https://user-images.githubusercontent.com/66171389/198881265-40cbb84f-f8c4-4799-9cd2-19f332ac3731.png)
+
 
 
 GitHub
