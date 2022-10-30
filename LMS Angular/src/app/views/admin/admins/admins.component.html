@@ -1,0 +1,234 @@
+<c-row>
+  <c-col xs>
+    <c-card class="mb-4" *ngIf="currentUserRole === 'admin'">
+      <c-card-header>Admins</c-card-header>
+      <c-card-body>
+        <table class="table table-striped">
+          <thead class="table-dark">
+            <tr>
+              <th class="text-center">First Name</th>
+              <th class="text-center">Last Name</th>
+              <th class="text-center">Email</th>
+              <th class="text-center">Phone Number</th>
+              <th class="text-center"></th>
+              <th class="text-center"></th>
+              <th class="text-center"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let admin of admins; index as i">
+              <td>
+                <div class="text-center">{{ admin.first_name }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ admin.last_name }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ admin.email }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ admin.phone_no }}</div>
+              </td>
+              <td>
+                <button
+                  type="button"
+                  class="btn btn-primary"
+                  *ngIf="currentUserRole === 'admin'"
+                  [routerLink]="['/admin/editadmin', admin._id]"
+                >
+                  Edit
+                </button>
+              </td>
+              <td>
+                <button
+                  type="button"
+                  class="btn btn-danger"
+                  *ngIf="currentUserRole === 'admin'"
+                  (click)="deleteadmin(admin._id)"
+                >
+                  Delete
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <!-- [routerLink]="['/admin/addadmin']" -->
+        <div class="d-grid gap-2 col-1 mx-auto">
+          <button type="button" class="btn btn-info" (click)="addnewadmin()">
+            Add
+          </button>
+        </div>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>
+
+<c-row>
+  <c-col xs>
+    <c-card class="mb-4">
+      <c-card-header>Librarians</c-card-header>
+      <c-card-body>
+        <table class="table table-striped">
+          <thead class="table-dark">
+            <tr>
+              <th class="text-center">First Name</th>
+              <th class="text-center">Last Name</th>
+              <th class="text-center">Email</th>
+              <th class="text-center">Phone Number</th>
+              <th class="text-center">Address</th>
+              <th class="text-center">Joined Date</th>
+              <th class="text-center"></th>
+              <th class="text-center"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let librarian of librarians; index as i">
+              <td>
+                <div class="text-center">{{ librarian.first_name }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ librarian.last_name }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ librarian.email }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ librarian.phone_no }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ librarian.address }}</div>
+              </td>
+              <td>
+                <div class="text-center">
+                  {{ librarian.joined_date | date }}
+                </div>
+              </td>
+              <td>
+                <button
+                  type="button"
+                  class="btn btn-primary"
+                  *ngIf="
+                    currentUserRole === 'admin' ||
+                    currentUserRole === 'librarian'
+                  "
+                  [routerLink]="['/admin/editlibrarian', librarian._id]"
+                >
+                  Edit
+                </button>
+              </td>
+              <td>
+                <button
+                  type="button"
+                  class="btn btn-danger"
+                  *ngIf="
+                    currentUserRole === 'admin' ||
+                    currentUserRole === 'librarian'
+                  "
+                  (click)="deletelibrarian(librarian._id)"
+                >
+                  Delete
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="d-grid gap-2 col-1 mx-auto">
+          <button
+            type="button"
+            class="btn btn-info"
+            *ngIf="
+              currentUserRole === 'admin' || currentUserRole === 'librarian'
+            "
+            [routerLink]="['/admin/addlibrarian']"
+          >
+            Add
+          </button>
+        </div>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>
+
+<c-row>
+  <c-col xs>
+    <c-card class="mb-4">
+      <c-card-header>Users</c-card-header>
+      <c-card-body>
+        <table class="table table-striped">
+          <thead class="table-dark">
+            <tr>
+              <th class="text-center">First Name</th>
+              <th class="text-center">Last Name</th>
+              <th class="text-center">Email</th>
+              <th class="text-center">Phone Number</th>
+              <th class="text-center">Address</th>
+              <th class="text-center">Joined Date</th>
+              <th class="text-center"></th>
+              <th class="text-center"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let user of users; index as i">
+              <td>
+                <div class="text-center">{{ user.first_name }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ user.last_name }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ user.email }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ user.phone_no }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ user.address }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ user.joined_date | date }}</div>
+              </td>
+              <td>
+                <button
+                  type="button"
+                  class="btn btn-primary"
+                  *ngIf="
+                    currentUserRole === 'admin' ||
+                    currentUserRole === 'librarian'
+                  "
+                  [routerLink]="['/admin/edituser', user._id]"
+                >
+                  Edit
+                </button>
+              </td>
+              <td>
+                <button
+                  type="button"
+                  class="btn btn-danger"
+                  *ngIf="
+                    currentUserRole === 'admin' ||
+                    currentUserRole === 'librarian'
+                  "
+                  (click)="deleteuser(user._id)"
+                >
+                  Delete
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="d-grid gap-2 col-1 mx-auto">
+          <button
+            type="button"
+            class="btn btn-info"
+            *ngIf="
+              currentUserRole === 'admin' || currentUserRole === 'librarian'
+            "
+            [routerLink]="['/admin/adduser']"
+          >
+            Add
+          </button>
+        </div>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>

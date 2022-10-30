@@ -1,0 +1,37 @@
+<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">First Name</label>
+    <input cFormControl id="first name" ngModel name="first_name" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Last Name</label>
+    <input cFormControl id="last name" ngModel name="last_name" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Email</label>
+    <input cFormControl id="email" ngModel name="email" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Password</label>
+    <input cFormControl id="password" ngModel name="password" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Phone Number</label>
+    <input cFormControl id="phone_no" ngModel name="phone_no" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Address</label>
+    <input cFormControl id="address" ngModel name="address" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Role</label>
+    <input cFormControl id="roles" ngModel name="roles" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Joined Date</label>
+    <input cFormControl id="joined_date" ngModel name="joined_date" />
+  </div>
+  <div class="d-grid gap-2 col-1 mx-auto">
+    <button type="submit" class="btn btn-success">Submit</button>
+  </div>
+</form>

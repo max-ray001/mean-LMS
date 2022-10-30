@@ -1,0 +1,13 @@
+<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Return date</label>
+    <input
+      type="date"
+      cFormControl
+      id="return_date"
+      [(ngModel)]="return_date"
+      name="return_date"
+    />
+  </div>
+  <button type="submit" class="btn btn-success">Submit</button>
+</form>

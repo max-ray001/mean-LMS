@@ -1,0 +1,117 @@
+<c-row>
+  <c-col xs>
+    <c-card class="mb-4">
+      <c-card-header>Books</c-card-header>
+      <c-card-body>
+        <table class="table table-striped">
+          <thead class="table-dark">
+            <tr>
+              <th class="text-center"></th>
+              <th class="text-center">Title</th>
+              <th class="text-center">Quantity</th>
+              <th class="text-center">Author</th>
+              <th class="text-center">Category</th>
+              <th class="text-center">ISBN</th>
+              <th class="text-center">Publication Date</th>
+              <th class="text-center">Publisher</th>
+              <th class="text-center">Available Books</th>
+
+              <th
+                class="text-center"
+                *ngIf="currentActiveRole === 'librarian'"
+              ></th>
+              <th
+                class="text-center"
+                *ngIf="currentActiveRole === 'librarian'"
+              ></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let book of books; index as i">
+              <td>
+                <div
+                  class="form-check"
+                  *ngIf="currentActiveRole === 'librarian'"
+                >
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    value=""
+                    id="flexCheckDefault"
+                    (change)="onChange($event, book._id)"
+                  />
+                </div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.title }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.quantity }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.author }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.category }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.isbn }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.publication_date }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.publisher }}</div>
+              </td>
+              <td>
+                <div class="text-center">{{ book.available_books }}</div>
+              </td>
+              <td *ngIf="currentActiveRole === 'librarian'">
+                <button
+                  type="button"
+                  class="btn btn-primary"
+                  [routerLink]="['/book/editbook', book._id]"
+                >
+                  Edit
+                </button>
+              </td>
+
+              <td *ngIf="currentActiveRole === 'librarian'">
+                <button
+                  type="button"
+                  class="btn btn-danger"
+                  (click)="deletebook(book._id)"
+                >
+                  Delete
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div [ngClass]="'side'" *ngIf="currentActiveRole === 'librarian'">
+          <div class="d-grid col-1 mx-auto">
+            <button
+              type="button"
+              class="btn btn-info"
+              [routerLink]="['/book/addbook']"
+            >
+              Add
+            </button>
+          </div>
+          <br />
+          <div class="d-grid col-3 mx-auto">
+            <td *ngIf="currentActiveRole === 'librarian'">
+              <button
+                type="button"
+                class="btn btn-danger"
+                (click)="bulkdelete()"
+              >
+                Delete Books
+              </button>
+            </td>
+          </div>
+        </div>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>

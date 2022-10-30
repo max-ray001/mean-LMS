@@ -1,0 +1,22 @@
+<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Book Id</label>
+    <input cFormControl id="book_id" ngModel name="book_id" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">User Id</label>
+    <input cFormControl id="user_id" ngModel name="user_id" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Issue date</label>
+    <input cFormControl id="issue_date" ngModel name="issue_date" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Due date</label>
+    <input cFormControl id="due_date" ngModel name="due_date" />
+  </div>
+
+  <div class="d-grid gap-2 col-1 mx-auto">
+    <button type="submit" class="btn btn-success">Submit</button>
+  </div>
+</form>

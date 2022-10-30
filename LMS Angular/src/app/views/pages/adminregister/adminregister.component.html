@@ -1,0 +1,104 @@
+<div class="bg-light min-vh-100 d-flex flex-row align-items-center">
+  <c-container>
+    <c-row class="justify-content-center">
+      <c-col lg="7" md="9" xl="6">
+        <c-card class="mx-4">
+          <c-card-body class="p-4">
+            <form cForm [formGroup]="myForm">
+              <h1>Register</h1>
+              <p class="text-medium-emphasis">Create your account</p>
+              <c-input-group class="mb-3">
+                <span cInputGroupText>
+                  <svg cIcon name="cilUser"></svg>
+                </span>
+                <input
+                  autoComplete="name"
+                  cFormControl
+                  placeholder="First Name"
+                  formControlName="first_name"
+                />
+              </c-input-group>
+              <span *ngIf="isValid('first_name')"
+                >Entered first name is invalid</span
+              >
+              <c-input-group class="mb-3">
+                <span cInputGroupText>
+                  <svg cIcon name="cilUser"></svg>
+                </span>
+                <input
+                  autoComplete="name"
+                  cFormControl
+                  placeholder="Last Name"
+                  formControlName="last_name"
+                />
+              </c-input-group>
+              <span *ngIf="isValid('last_name')"
+                >Entered last name is invalid</span
+              >
+              <c-input-group class="mb-3">
+                <span cInputGroupText>@</span>
+                <input
+                  autoComplete="email"
+                  cFormControl
+                  placeholder="Email"
+                  formControlName="email"
+                />
+              </c-input-group>
+              <span *ngIf="isValid('email')">Entered email is invalid</span>
+              <c-input-group class="mb-3">
+                <span cInputGroupText>
+                  <svg cIcon name="cilLockLocked"></svg>
+                </span>
+                <input
+                  autoComplete="new-password"
+                  cFormControl
+                  placeholder="Password"
+                  type="password"
+                  formControlName="password"
+                />
+              </c-input-group>
+              <span *ngIf="isValid('password')"
+                >Entered password is invalid</span
+              >
+
+              <c-input-group class="mb-4">
+                <span cInputGroupText>
+                  <svg cIcon name="cilLockLocked"></svg>
+                </span>
+                <input
+                  autoComplete="new-password"
+                  cFormControl
+                  placeholder="Repeat password"
+                  type="password"
+                  formControlName="cnfpass"
+                />
+              </c-input-group>
+              <span *ngIf="isValid('cnfpass')"
+                >Password and confirm password should match</span
+              >
+              <c-input-group class="mb-3">
+                <span cInputGroupText>
+                  <svg cIcon name="cil-User"></svg>
+                </span>
+
+                <input
+                  autoComplete="name"
+                  cFormControl
+                  placeholder="Phone No"
+                  formControlName="phone_no"
+                />
+              </c-input-group>
+
+              <div class="d-grid">
+                <button cButton color="success" (click)="register()">
+                  Create Account
+                </button>
+              </div>
+              <div style="text-align: center">{{ successMessage }}</div>
+            </form>
+          </c-card-body>
+        </c-card>
+      </c-col>
+    </c-row>
+  </c-container>
+</div>

@@ -1,0 +1,40 @@
+<div *ngIf="token">
+  <c-row>
+    <c-col xs>
+      <c-card class="mb-4">
+        <c-card-header> My Books</c-card-header>
+        <c-card-body>
+          <table class="table table-striped">
+            <thead class="table-dark">
+              <tr>
+                <th class="text-center">Book Id</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let book of userbooks; index as i">
+                <td>
+                  <div class="text-center">{{ book._id }}</div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </c-card-body>
+      </c-card>
+    </c-col>
+  </c-row>
+  <div class="col-sm-12 col-md-12">
+    <div class="text-md-right float-md-end pagination-rounded">
+      <ngb-pagination
+        class="d-flex justify-content-end mr-auto pagination mt-2"
+        [collectionSize]="totalCount"
+        [(page)]="page"
+        [pageSize]="limit"
+        [maxSize]="5"
+        [ellipses]="false"
+        [boundaryLinks]="true"
+        (pageChange)="loadPage(page)"
+      >
+      </ngb-pagination>
+    </div>
+  </div>
+</div>

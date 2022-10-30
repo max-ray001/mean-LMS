@@ -1,0 +1,55 @@
+<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Title</label>
+    <input cFormControl id="title" [(ngModel)]="title" name="title" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Quantity</label>
+    <input cFormControl id="quantity" [(ngModel)]="quantity" name="quantity" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Author</label>
+    <input cFormControl id="author" [(ngModel)]="author" name="author" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Category</label>
+    <input cFormControl id="category" [(ngModel)]="category" name="category" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">ISBN</label>
+    <input cFormControl id="isbn" [(ngModel)]="isbn" name="isbn" />
+  </div>
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Publication Date</label>
+    <input
+      cFormControl
+      id="publication_date"
+      [(ngModel)]="publication_date"
+      name="publication_date"
+    />
+  </div>
+
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Publisher</label>
+    <input
+      cFormControl
+      id="publisher"
+      [(ngModel)]="publisher"
+      name="publisher"
+    />
+  </div>
+
+  <div class="mb-3">
+    <label cLabel for="exampleFormControlInput1">Available Books</label>
+    <input
+      cFormControl
+      id="available_books"
+      [(ngModel)]="available_books"
+      name="available_books"
+    />
+  </div>
+
+  <div class="d-grid gap-2 col-1 mx-auto">
+    <button type="submit" class="btn btn-success">Submit</button>
+  </div>
+</form>
