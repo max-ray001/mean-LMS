@@ -9,15 +9,13 @@ Implementation of Template driven &amp; Reactive forms,Form validation,Password 
 
 ![image](https://user-images.githubusercontent.com/66171389/198881291-b6955332-4d8c-4e4a-8c3d-d587912a319b.png)
 
-![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
+![image](https://user-images.githubusercontent.com/66171389/198881497-dc9b5f9b-c225-422a-9fd3-2403dbadaaa8.png)
 
 ![image](https://user-images.githubusercontent.com/66171389/198881523-33e19b45-6ca8-46b1-be73-2bce2291afd4.png)
 
+![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
+
 ![image](https://user-images.githubusercontent.com/66171389/198881265-40cbb84f-f8c4-4799-9cd2-19f332ac3731.png)
-
-![image](https://user-images.githubusercontent.com/66171389/198881497-dc9b5f9b-c225-422a-9fd3-2403dbadaaa8.png)
-
-
 
 
 GitHub
