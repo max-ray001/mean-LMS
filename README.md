@@ -3,6 +3,12 @@ Implementation of Template driven &amp; Reactive forms,Form validation,Password 
 
 ![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
 
+
+GitHub
+
+https://docs.github.com/en/get-started
+
+
 To download Visual Studio Code
 
 https://code.visualstudio.com/
@@ -15,22 +21,32 @@ https://nodejs.org/en/
 
 Referred Videos:
 
-1.)Build A Node.js API Authentication With JWT Tutorial
+1.)Build A Node.js API Authentication With JWT Tutorial |Joi Validation
 
 https://www.youtube.com/watch?v=2jqok-WgelI
 
 
-2.)Create A Paginated API With Node.js
+2.)CRUD REST API using Node | Express | MongoDB
+
+https://youtu.be/eYVGoXPq2RA
+
+
+3.)Create A Paginated API With Node.js
 
 https://www.youtube.com/watch?v=ZX3qt0UWifc
 
 
-3.)Login and Registration
+4.)Angular Tutorial
+
+https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1
+
+
+5.)Login and Registration
 
 https://www.youtube.com/watch?v=toRmWFzB6-E
 
 
-4.)Special Events Route Guard
+6.)Special Events Route Guard
 
 https://www.youtube.com/watch?v=7L80dKtfHe0
 
@@ -95,3 +111,8 @@ https://getbootstrap.com/docs/5.0/getting-started/introduction/
 CoreUI Angular Admin Template
 
 https://coreui.io/demos/angular/4.2/free/#/dashboard
+
+
+Keyboard Shortcuts - Windows 10
+
+https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
