@@ -16,6 +16,7 @@ User
 
 ![image](https://user-images.githubusercontent.com/66171389/198881737-ef90a032-d26b-47d2-8e03-80e4f3e467d8.png)
 
+
 Admins
 
 ![image](https://user-images.githubusercontent.com/66171389/198881952-6d0b0fe0-373e-4eee-947a-fda3326111dc.png)
@@ -105,13 +106,16 @@ Bootstrap
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
+
 CoreUI Angular Admin Template
 
 https://coreui.io/demos/angular/4.2/free/#/dashboard
 
+
 GitHub
 
 https://docs.github.com/en/get-started
+
 
 Keyboard Shortcuts
 
@@ -211,10 +215,21 @@ PUT- /api/books/book_id (for updating a book details)
 
 DELETE - /api/books/book_id (for deleting a book)
 
-PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s
+PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
 
-Reference Videos:
+To run the Application:
+
+LMS Angular:
+
+Type: npm start
+
+LMS Server:
+
+Type: npm start
+
+
+Videos:
 
 
 1.)Build A Node.js API Authentication With JWT Tutorial |Joi Validation
