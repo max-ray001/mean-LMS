@@ -222,11 +222,11 @@ To run the Application:
 
 LMS Angular:
 
-Type: npm start
+Type npm start
 
 LMS Server:
 
-Type: npm start
+Type npm start
 
 
 Videos:
