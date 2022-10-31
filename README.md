@@ -1,5 +1,6 @@
 # Library-Management-System
 
+User
 
 ![image](https://user-images.githubusercontent.com/66171389/198881453-05c3e5fc-a3fb-4811-ac04-eafded9f7749.png)
 
@@ -47,7 +48,101 @@ MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/198881265-40cbb84f-f8c4-4799-9cd2-19f332ac3731.png)
 
-API’s
+
+
+
+
+
+
+
+
+
+
+Languages: 
+
+
+JavaScript
+
+https://javascript.info/
+
+
+JavaScript Events
+
+https://flaviocopes.com/javascript-events/
+
+
+JavaScript Eventloop
+
+https://flaviocopes.com/javascript-event-loop/
+
+
+Asynchronous Javascript
+
+https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+
+
+ES6
+
+https://www.programiz.com/javascript/ES6
+
+
+Angular
+
+https://www.tektutorialshub.com/angular-tutorial/
+
+
+Node.js
+
+https://www.tutorialsteacher.com/nodejs
+
+https://www.tutorialspoint.com/nodejs/index.htm
+
+
+Mongoose
+
+https://mongoosejs.com/docs/index.html
+
+
+JSON Web Tokens
+
+https://jwt.io/
+
+https://jwt.io/introduction
+
+
+Tools:
+
+To download Visual Studio Code
+
+https://code.visualstudio.com/
+
+
+To download Node.js
+
+https://nodejs.org/en/
+
+
+Bootstrap
+
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+
+CoreUI Angular Admin Template
+
+https://coreui.io/demos/angular/4.2/free/#/dashboard
+
+
+GitHub
+
+https://docs.github.com/en/get-started
+
+
+Keyboard Shortcuts
+
+https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
+
+
+API’s 
 
 Users
 
@@ -131,22 +226,8 @@ DELETE - /api/books/book_id (for deleting a book)
 PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s
 
 
-GitHub
+Reference Videos:
 
-https://docs.github.com/en/get-started
-
-
-To download Visual Studio Code
-
-https://code.visualstudio.com/
-
-
-To download Node.js
-
-https://nodejs.org/en/
-
-
-Referred Videos:
 
 1.)Build A Node.js API Authentication With JWT Tutorial |Joi Validation
 
@@ -177,69 +258,3 @@ https://www.youtube.com/watch?v=toRmWFzB6-E
 
 https://www.youtube.com/watch?v=7L80dKtfHe0
 
-
-Referred Websites:
-
-
-JavaScript
-
-https://javascript.info/
-
-
-JavaScript Events
-
-https://flaviocopes.com/javascript-events/
-
-
-JavaScript Eventloop
-
-https://flaviocopes.com/javascript-event-loop/
-
-
-Asynchronous Javascript
-
-https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
-
-
-ES6
-
-https://www.programiz.com/javascript/ES6
-
-
-Angular
-
-https://www.tektutorialshub.com/angular-tutorial/
-
-
-Node.js
-
-https://www.tutorialsteacher.com/nodejs
-
-https://www.tutorialspoint.com/nodejs/index.htm
-
-
-Mongoose
-
-https://mongoosejs.com/docs/index.html
-
-
-JSON Web Tokens
-
-https://jwt.io/
-
-https://jwt.io/introduction
-
-
-Bootstrap
-
-https://getbootstrap.com/docs/5.0/getting-started/introduction/
-
-
-CoreUI Angular Admin Template
-
-https://coreui.io/demos/angular/4.2/free/#/dashboard
-
-
-Keyboard Shortcuts
-
-https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
