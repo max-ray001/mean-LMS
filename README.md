@@ -45,9 +45,14 @@ Postman
 
 ![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
 
+![image](https://user-images.githubusercontent.com/66171389/199181158-6f7cd478-5fc0-42cb-bcf2-30a6efde2150.png)
+
+
 MongoDB Cloud
 
-![image](https://user-images.githubusercontent.com/66171389/198881265-40cbb84f-f8c4-4799-9cd2-19f332ac3731.png)
+![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
+
+
 
 ***
 
