@@ -49,6 +49,18 @@ MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/198881265-40cbb84f-f8c4-4799-9cd2-19f332ac3731.png)
 
+***
+
+GitHub
+
+https://docs.github.com/en/get-started
+
+Keyboard Shortcuts
+
+https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
+
+***
+
 
 Languages: 
 
@@ -78,11 +90,6 @@ ES6
 https://www.programiz.com/javascript/ES6
 
 
-Angular
-
-https://www.tektutorialshub.com/angular-tutorial/
-
-
 Node.js
 
 https://www.tutorialsteacher.com/nodejs
@@ -95,12 +102,24 @@ Mongoose
 https://mongoosejs.com/docs/index.html
 
 
+TypeScript
+
+https://www.typescripttutorial.net/
+
+
+Angular
+
+https://www.tektutorialshub.com/angular-tutorial/
+
+***
+
 JSON Web Tokens
 
 https://jwt.io/
 
 https://jwt.io/introduction
 
+***
 
 Bootstrap
 
@@ -110,16 +129,8 @@ https://getbootstrap.com/docs/5.0/getting-started/introduction/
 CoreUI Angular Admin Template
 
 https://coreui.io/demos/angular/4.2/free/#/dashboard
-
-
-GitHub
-
-https://docs.github.com/en/get-started
-
-
-Keyboard Shortcuts
-
-https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
+ 
+*** 
 
 
 Tools:
@@ -132,6 +143,8 @@ https://code.visualstudio.com/
 To download Node.js
 
 https://nodejs.org/en/
+
+***
 
 
 API’s based on roles:
@@ -217,6 +230,7 @@ DELETE - /api/books/book_id (for deleting a book)
 
 PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
+***
 
 To run the Application:
 
@@ -228,6 +242,7 @@ LMS Server:
 
 Type npm start
 
+***
 
 Videos:
 
