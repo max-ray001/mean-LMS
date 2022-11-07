@@ -243,11 +243,11 @@ To run the Application:
 
 LMS Angular:
 
-Run npm start
+Type npm start
 
 LMS Server:
 
-Run npm start
+Type npm start
 
 ***
 
