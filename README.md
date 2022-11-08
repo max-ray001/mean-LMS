@@ -1,5 +1,7 @@
 # Library-Management-System
 
+Has implementation of Template driven & Reactive forms,Form validation,Password hashing,Role based access,JWT Authentication,AuthGuard,Middleware,HTTP Interceptors,Services,Proxy Configuration,HTTP requests,Controller,Components & Directives,Profile,Pagination,Pipes,Primary & Foreign key,Populate,Add,Update,Delete,Bulk upload & bulk delete concepts.
+
 User
 
 ![image](https://user-images.githubusercontent.com/66171389/198881453-05c3e5fc-a3fb-4811-ac04-eafded9f7749.png)
