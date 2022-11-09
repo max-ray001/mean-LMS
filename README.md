@@ -244,13 +244,13 @@ PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
 To run the Application:
 
-LMS Angular:
+LMS Angular
 
-Type npm start
+npm start
 
 LMS Server:
 
-Type npm start
+npm start
 
 ***
 
