@@ -33,8 +33,6 @@ Librarians
 
 ![image](https://user-images.githubusercontent.com/66171389/198882316-d40b1fd7-82f8-44cc-91bc-6d38dd4754f3.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198882393-18c4451e-d51d-42ad-a441-3be4f72367a1.png)
-
 ![image](https://user-images.githubusercontent.com/66171389/198884125-0f94ad3f-5698-4e1c-a489-0244e69d08ea.png)
 
 ![WhatsApp Image 2022-10-30 at 7 51 00 PM](https://user-images.githubusercontent.com/66171389/198883702-cac1c372-458e-489c-8f97-dd1d8028aacc.jpeg)
