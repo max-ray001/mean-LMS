@@ -75,7 +75,7 @@ Languages:
 
 JavaScript
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://javascript.info/
 
 
 JavaScript Events
