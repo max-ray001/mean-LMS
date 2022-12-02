@@ -233,7 +233,6 @@ When sending data to a web server, the data has to be a string. Use JSON.stringi
 When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
 
 3.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
-
 before the actual request is sent, in order to ask which origin and which request options the server accepts.
 
 4.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
@@ -243,7 +242,6 @@ createdAt: a date representing when this document was created
 updatedAt: a date representing when this document was last updated
 
 Mongoose will then set createdAt when the document is first inserted, and update updatedAt whenever you update the document using save(), updateOne(), updateMany(),
-
 findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
 default.
 
