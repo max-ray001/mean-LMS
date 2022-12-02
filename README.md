@@ -79,6 +79,13 @@ Express.js: Make requests to Database and return a response.
 
 MongoDB: Store and retrieve data.
 
+
+A common use of JSON is to exchange data to/from a web server.
+
+When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
+
+When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
+
 ***
 
 Languages: 
@@ -140,13 +147,6 @@ https://jwt.io/introduction
 
 ***
 
-A common use of JSON is to exchange data to/from a web server.
-
-When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
-
-When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
-
-***
 
 Bootstrap
 
