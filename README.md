@@ -19,7 +19,6 @@ User
 
 ![image](https://user-images.githubusercontent.com/66171389/198881737-ef90a032-d26b-47d2-8e03-80e4f3e467d8.png)
 
-
 Admins
 
 ![image](https://user-images.githubusercontent.com/66171389/198881952-6d0b0fe0-373e-4eee-947a-fda3326111dc.png)
@@ -27,7 +26,6 @@ Admins
 ![image](https://user-images.githubusercontent.com/66171389/198881971-695720fc-d3f8-4e34-b6fa-4d9591ff8fcd.png)
 
 ![image](https://user-images.githubusercontent.com/66171389/198882063-3ad69a6f-4fde-490e-bd30-08359273cc0f.png)
-
 
 Librarians
 
@@ -41,7 +39,6 @@ Librarians
 
 ![image](https://user-images.githubusercontent.com/66171389/198882668-d3f885bb-2d62-44de-96c4-e277c351e3c8.png)
 
-
 Postman
 
 ![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
@@ -50,12 +47,9 @@ Postman
 
 ![image](https://user-images.githubusercontent.com/66171389/199182213-624b7d52-c47b-412d-b82f-cb2933605703.png)
 
-
 MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
-
-
 
 ***
 
@@ -81,8 +75,6 @@ MongoDB: Store and retrieve data.
 
 ***
 
-TOOLS AND TECHNOLOGIES
-
 VISUAL STUDIO CODE
 
 Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
@@ -104,6 +96,10 @@ required(), min(), max(), etc which make it easy to use and a user-friendly modu
 MONGODB
 
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions. MongoDB stores data records as documents which are gathered together in collections. A database stores one or more collections of documents.
+
+POSTMAN
+
+Postman is an API platform for developers to design, build, test and iterate their APIs.
 
 ***
 
