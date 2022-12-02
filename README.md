@@ -53,6 +53,14 @@ MongoDB Cloud
 
 ***
 
+To run the Application:
+
+LMS Angular - npm start
+
+LMS Server - npm start
+
+***
+
 API’s BASED ON ROLES:
 
 Users
@@ -136,16 +144,6 @@ DELETE - /api/books/book_id (for deleting a book)
 
 PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
-***
-
-To run the Application:
-
-LMS Angular - npm start
-
-LMS Server - npm start
-
-***
-
 The primary functions of the MEAN stack technologies are:
 
 Angular: Accept requests and display results to end-user.
@@ -158,37 +156,13 @@ MongoDB: Store and retrieve data.
 
 ***
 
-LANGUAGES:
-
-JavaScript - https://javascript.info/
-
-JavaScript Events - https://flaviocopes.com/javascript-events/
-
-JavaScript Eventloop - https://flaviocopes.com/javascript-event-loop/
-
-Asynchronous Javascript - https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
-
-ES6 - https://www.programiz.com/javascript/ES6
-
-Node.js - https://www.tutorialsteacher.com/nodejs  |  https://www.tutorialspoint.com/nodejs/index.htm
-
-Mongoose - https://mongoosejs.com/docs/index.html
-
-TypeScript - https://www.typescripttutorial.net/
-
-Angular - https://www.tektutorialshub.com/angular-tutorial/
-
-***
-
 GitHub - https://docs.github.com/en/get-started
-
-Keyboard Shortcuts - https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
-
-TEMPLATES:
 
 Bootstrap - https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 CoreUI Angular Admin Template - https://coreui.io/demos/angular/4.2/free/#/dashboard
+
+Keyboard Shortcuts - https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
 
 ***
 
@@ -226,19 +200,41 @@ Postman is an API platform for developers to design, build, test and iterate the
 
 ***
 
-1.)JSON Web Tokens - https://jwt.io/  |  https://jwt.io/introduction
+LANGUAGES:
 
-1.) A common use of JSON is to exchange data to/from a web server.
+JavaScript - https://javascript.info/
+
+JavaScript Events - https://flaviocopes.com/javascript-events/
+
+JavaScript Eventloop - https://flaviocopes.com/javascript-event-loop/
+
+Asynchronous Javascript - https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+
+ES6 - https://www.programiz.com/javascript/ES6
+
+Node.js - https://www.tutorialsteacher.com/nodejs  |  https://www.tutorialspoint.com/nodejs/index.htm
+
+Mongoose - https://mongoosejs.com/docs/index.html
+
+TypeScript - https://www.typescripttutorial.net/
+
+Angular - https://www.tektutorialshub.com/angular-tutorial/
+
+***
+
+1.) JSON Web Tokens - https://jwt.io/  |  https://jwt.io/introduction
+
+2.) A common use of JSON is to exchange data to/from a web server.
 
 When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
 
 When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
 
-2.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
+3.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
 
 before the actual request is sent, in order to ask which origin and which request options the server accepts.
 
-3.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
+4.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
 
 createdAt: a date representing when this document was created
 
@@ -249,81 +245,74 @@ Mongoose will then set createdAt when the document is first inserted, and update
 findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
 default.
 
-4.) Mongoose Model:
+5.) Mongoose Model:
 
-Model.aggregate()
+* Model.aggregate()
 
-Model.count()
+* Model.count()
 
-Model.deleteMany()
+* Model.deleteMany()
 
-Model.deleteOne()
+* Model.deleteOne()
 
-Model.find()
+* Model.find()
 
-Model.findById()
+* Model.findById()
 
-Model.findByIdAndDelete()
+* Model.findByIdAndDelete()
 
-Model.findByIdAndRemove()
+* Model.findByIdAndRemove()
 
-Model.findByIdAndUpdate()
+* Model.findByIdAndUpdate()
 
-Model.findOne()
+* Model.findOne()
 
-Model.findOneAndDelete()
+* Model.findOneAndDelete()
 
-Model.findOneAndRemove()
+* Model.findOneAndRemove()
 
-Model.findOneAndReplace()
+* Model.findOneAndReplace()
 
-Model.findOneAndUpdate()
+* Model.findOneAndUpdate()
 
-Model.insertMany()
+* Model.insertMany()
 
-Model.populate()
+* Model.populate()
 
-Model.remove()
+* Model.remove()
 
-Model.replaceOne()
+* Model.replaceOne()
 
-Model.update()
+* Model.update()
 
-Model.updateMany()
+* Model.updateMany()
 
-Model.updateOne()
+* Model.updateOne()
 
 ***
 
-Videos:
-
+VIDEOS:
 
 1.)Build A Node.js API Authentication With JWT Tutorial | Joi Validation
 
 https://www.youtube.com/watch?v=2jqok-WgelI
 
-
 2.)CRUD REST API using Node | Express | MongoDB
 
 https://youtu.be/eYVGoXPq2RA
-
 
 3.)Create A Paginated API With Node.js
 
 https://www.youtube.com/watch?v=ZX3qt0UWifc
 
-
 4.)Angular Tutorial
 
 https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1
-
 
 5.)Login and Registration
 
 https://www.youtube.com/watch?v=toRmWFzB6-E
 
-
 6.)Special Events Route Guard
 
 https://www.youtube.com/watch?v=7L80dKtfHe0
-
