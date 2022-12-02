@@ -144,16 +144,6 @@ DELETE - /api/books/book_id (for deleting a book)
 
 PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
-The primary functions of the MEAN stack technologies are:
-
-Angular: Accept requests and display results to end-user.
-
-Node.js: Handle Client and Server Requests.
-
-Express.js: Make requests to Database and return a response.
-
-MongoDB: Store and retrieve data.
-
 ***
 
 GitHub - https://docs.github.com/en/get-started
@@ -163,6 +153,28 @@ Bootstrap - https://getbootstrap.com/docs/5.0/getting-started/introduction/
 CoreUI Angular Admin Template - https://coreui.io/demos/angular/4.2/free/#/dashboard
 
 Keyboard Shortcuts - https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
+
+***
+
+LANGUAGES:
+
+JavaScript - https://javascript.info/
+
+JavaScript Events - https://flaviocopes.com/javascript-events/
+
+JavaScript Eventloop - https://flaviocopes.com/javascript-event-loop/
+
+Asynchronous Javascript - https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+
+ES6 - https://www.programiz.com/javascript/ES6
+
+Node.js - https://www.tutorialsteacher.com/nodejs  |  https://www.tutorialspoint.com/nodejs/index.htm
+
+Mongoose - https://mongoosejs.com/docs/index.html
+
+TypeScript - https://www.typescripttutorial.net/
+
+Angular - https://www.tektutorialshub.com/angular-tutorial/
 
 ***
 
@@ -200,25 +212,15 @@ Postman is an API platform for developers to design, build, test and iterate the
 
 ***
 
-LANGUAGES:
+The primary functions of the MEAN stack technologies are:
 
-JavaScript - https://javascript.info/
+Angular: Accept requests and display results to end-user.
 
-JavaScript Events - https://flaviocopes.com/javascript-events/
+Node.js: Handle Client and Server Requests.
 
-JavaScript Eventloop - https://flaviocopes.com/javascript-event-loop/
+Express.js: Make requests to Database and return a response.
 
-Asynchronous Javascript - https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
-
-ES6 - https://www.programiz.com/javascript/ES6
-
-Node.js - https://www.tutorialsteacher.com/nodejs  |  https://www.tutorialspoint.com/nodejs/index.htm
-
-Mongoose - https://mongoosejs.com/docs/index.html
-
-TypeScript - https://www.typescripttutorial.net/
-
-Angular - https://www.tektutorialshub.com/angular-tutorial/
+MongoDB: Store and retrieve data.
 
 ***
 
