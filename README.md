@@ -106,6 +106,54 @@ default.
 
 ***
 
+Mongoose Model:
+
+Model.aggregate()
+
+Model.count()
+
+Model.deleteMany()
+
+Model.deleteOne()
+
+Model.find()
+
+Model.findById()
+
+Model.findByIdAndDelete()
+
+Model.findByIdAndRemove()
+
+Model.findByIdAndUpdate()
+
+Model.findOne()
+
+Model.findOneAndDelete()
+
+Model.findOneAndRemove()
+
+Model.findOneAndReplace()
+
+Model.findOneAndUpdate()
+
+Model.insertMany()
+
+Model.populate()
+
+Model.remove()
+
+Model.replaceOne()
+
+Model.update()
+
+Model.updateMany()
+
+Model.updateOne()
+
+Model.$where()
+
+***
+
 Languages: 
 
 JavaScript
