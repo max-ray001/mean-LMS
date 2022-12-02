@@ -150,8 +150,6 @@ Model.updateMany()
 
 Model.updateOne()
 
-Model.$where()
-
 ***
 
 Languages: 
