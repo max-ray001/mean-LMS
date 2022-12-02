@@ -89,6 +89,10 @@ When receiving data from a web server, the data is always a string. Parse the da
 
 ***
 
+Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server before the actual request is sent, in order to ask which origin and which request options the server accepts.
+
+***
+
 Languages: 
 
 
