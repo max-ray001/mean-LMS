@@ -93,33 +93,40 @@ Calling app.use(cors()) will enable the express server to respond to preflight r
 
 ***
 
-Languages: 
+Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
 
+createdAt: a date representing when this document was created
+
+updatedAt: a date representing when this document was last updated
+
+Mongoose will then set createdAt when the document is first inserted, and update updatedAt whenever you update the document using save(), updateOne(), updateMany(),
+
+findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
+default.
+
+***
+
+Languages: 
 
 JavaScript
 
 https://javascript.info/
 
-
 JavaScript Events
 
 https://flaviocopes.com/javascript-events/
-
 
 JavaScript Eventloop
 
 https://flaviocopes.com/javascript-event-loop/
 
-
 Asynchronous Javascript
 
 https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
 
-
 ES6
 
 https://www.programiz.com/javascript/ES6
-
 
 Node.js
 
@@ -127,16 +134,13 @@ https://www.tutorialsteacher.com/nodejs
 
 https://www.tutorialspoint.com/nodejs/index.htm
 
-
 Mongoose
 
 https://mongoosejs.com/docs/index.html
 
-
 TypeScript
 
 https://www.typescripttutorial.net/
-
 
 Angular
 
