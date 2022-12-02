@@ -53,202 +53,7 @@ MongoDB Cloud
 
 ***
 
-GitHub
-
-https://docs.github.com/en/get-started
-
-Keyboard Shortcuts
-
-https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
-
-***
-
-The primary functions of the MEAN stack technologies are:
-
-Angular: Accept requests and display results to end-user.
-
-Node.js: Handle Client and Server Requests.
-
-Express.js: Make requests to Database and return a response.
-
-MongoDB: Store and retrieve data.
-
-***
-
-VISUAL STUDIO CODE
-
-Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
-
-EXPRESS.JS
-
-Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making
-decisions to give the correct responses for the requests made by the client.
-
-MIDDLEWARE
-
-Middleware is software that different applications use to communicate with each other. It provides functionality to connect applications intelligently and efficiently so that you can innovate faster. Middleware acts as a bridge between diverse technologies, tools and databases so that you can integrate them seamlessly into a single system. The single system then provides a unified service to its users. For example, a Windows frontend application sends and receives data from a Linux backend server, but the application users are unaware of the difference. The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE.
-
-JOI
-
-Joi in Express.js is a popular module for data validation. This module validates the data based on schemas. There are various functions like optional(),
-required(), min(), max(), etc which make it easy to use and a user-friendly module for validating the data.
-
-MONGODB
-
-MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions. MongoDB stores data records as documents which are gathered together in collections. A database stores one or more collections of documents.
-
-POSTMAN
-
-Postman is an API platform for developers to design, build, test and iterate their APIs.
-
-***
-
-A common use of JSON is to exchange data to/from a web server.
-
-When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
-
-When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
-
-***
-
-Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server before the actual request is sent, in order to ask which origin and which request options the server accepts.
-
-***
-
-Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
-
-createdAt: a date representing when this document was created
-
-updatedAt: a date representing when this document was last updated
-
-Mongoose will then set createdAt when the document is first inserted, and update updatedAt whenever you update the document using save(), updateOne(), updateMany(),
-
-findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
-default.
-
-***
-
-Mongoose Model:
-
-Model.aggregate()
-
-Model.count()
-
-Model.deleteMany()
-
-Model.deleteOne()
-
-Model.find()
-
-Model.findById()
-
-Model.findByIdAndDelete()
-
-Model.findByIdAndRemove()
-
-Model.findByIdAndUpdate()
-
-Model.findOne()
-
-Model.findOneAndDelete()
-
-Model.findOneAndRemove()
-
-Model.findOneAndReplace()
-
-Model.findOneAndUpdate()
-
-Model.insertMany()
-
-Model.populate()
-
-Model.remove()
-
-Model.replaceOne()
-
-Model.update()
-
-Model.updateMany()
-
-Model.updateOne()
-
-***
-
-Languages: 
-
-JavaScript
-
-https://javascript.info/
-
-JavaScript Events
-
-https://flaviocopes.com/javascript-events/
-
-JavaScript Eventloop
-
-https://flaviocopes.com/javascript-event-loop/
-
-Asynchronous Javascript
-
-https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
-
-ES6
-
-https://www.programiz.com/javascript/ES6
-
-Node.js
-
-https://www.tutorialsteacher.com/nodejs
-
-https://www.tutorialspoint.com/nodejs/index.htm
-
-Mongoose
-
-https://mongoosejs.com/docs/index.html
-
-TypeScript
-
-https://www.typescripttutorial.net/
-
-Angular
-
-https://www.tektutorialshub.com/angular-tutorial/
-
-***
-
-JSON Web Tokens
-
-https://jwt.io/
-
-https://jwt.io/introduction
-
-***
-
-Bootstrap
-
-https://getbootstrap.com/docs/5.0/getting-started/introduction/
-
-
-CoreUI Angular Admin Template
-
-https://coreui.io/demos/angular/4.2/free/#/dashboard
- 
-*** 
-
-Tools:
-
-To download Visual Studio Code
-
-https://code.visualstudio.com/
-
-
-To download Node.js
-
-https://nodejs.org/en/
-
-***
-
-API’s based on roles:
+API’s BASED ON ROLES:
 
 Users
 
@@ -335,13 +140,158 @@ PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
 To run the Application:
 
-LMS Angular:
+LMS Angular - npm start
 
-npm start
+LMS Server - npm start
 
-LMS Server:
+***
 
-npm start
+The primary functions of the MEAN stack technologies are:
+
+Angular: Accept requests and display results to end-user.
+
+Node.js: Handle Client and Server Requests.
+
+Express.js: Make requests to Database and return a response.
+
+MongoDB: Store and retrieve data.
+
+***
+
+LANGUAGES:
+
+JavaScript - https://javascript.info/
+
+JavaScript Events - https://flaviocopes.com/javascript-events/
+
+JavaScript Eventloop - https://flaviocopes.com/javascript-event-loop/
+
+Asynchronous Javascript - https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+
+ES6 - https://www.programiz.com/javascript/ES6
+
+Node.js - https://www.tutorialsteacher.com/nodejs  |  https://www.tutorialspoint.com/nodejs/index.htm
+
+Mongoose - https://mongoosejs.com/docs/index.html
+
+TypeScript - https://www.typescripttutorial.net/
+
+Angular - https://www.tektutorialshub.com/angular-tutorial/
+
+***
+
+GitHub - https://docs.github.com/en/get-started
+
+Keyboard Shortcuts - https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
+
+TEMPLATES:
+
+Bootstrap - https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+CoreUI Angular Admin Template - https://coreui.io/demos/angular/4.2/free/#/dashboard
+
+***
+
+TOOLS AND TECHNOLOGIES:
+
+VISUAL STUDIO CODE
+
+Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
+
+To download Visual Studio Code - https://code.visualstudio.com/
+
+EXPRESS.JS
+
+Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making
+decisions to give the correct responses for the requests made by the client.
+
+To download Node.js - https://nodejs.org/en/
+
+MIDDLEWARE
+
+Middleware is software that different applications use to communicate with each other. It provides functionality to connect applications intelligently and efficiently so that you can innovate faster. Middleware acts as a bridge between diverse technologies, tools and databases so that you can integrate them seamlessly into a single system. The single system then provides a unified service to its users. For example, a Windows frontend application sends and receives data from a Linux backend server, but the application users are unaware of the difference. The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE.
+
+JOI
+
+Joi in Express.js is a popular module for data validation. This module validates the data based on schemas. There are various functions like optional(),
+required(), min(), max(), etc which make it easy to use and a user-friendly module for validating the data.
+
+MONGODB
+
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions. MongoDB stores data records as documents which are gathered together in collections. A database stores one or more collections of documents.
+
+POSTMAN
+
+Postman is an API platform for developers to design, build, test and iterate their APIs.
+
+***
+
+1.)JSON Web Tokens - https://jwt.io/  |  https://jwt.io/introduction
+
+1.) A common use of JSON is to exchange data to/from a web server.
+
+When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
+
+When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
+
+2.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
+
+before the actual request is sent, in order to ask which origin and which request options the server accepts.
+
+3.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
+
+createdAt: a date representing when this document was created
+
+updatedAt: a date representing when this document was last updated
+
+Mongoose will then set createdAt when the document is first inserted, and update updatedAt whenever you update the document using save(), updateOne(), updateMany(),
+
+findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
+default.
+
+4.) Mongoose Model:
+
+Model.aggregate()
+
+Model.count()
+
+Model.deleteMany()
+
+Model.deleteOne()
+
+Model.find()
+
+Model.findById()
+
+Model.findByIdAndDelete()
+
+Model.findByIdAndRemove()
+
+Model.findByIdAndUpdate()
+
+Model.findOne()
+
+Model.findOneAndDelete()
+
+Model.findOneAndRemove()
+
+Model.findOneAndReplace()
+
+Model.findOneAndUpdate()
+
+Model.insertMany()
+
+Model.populate()
+
+Model.remove()
+
+Model.replaceOne()
+
+Model.update()
+
+Model.updateMany()
+
+Model.updateOne()
 
 ***
 
