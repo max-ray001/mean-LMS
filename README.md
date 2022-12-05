@@ -188,8 +188,7 @@ To download Visual Studio Code - https://code.visualstudio.com/
 
 EXPRESS.JS
 
-Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making
-decisions to give the correct responses for the requests made by the client.
+Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making decisions to give the correct responses for the requests made by the client.
 
 To download Node.js - https://nodejs.org/en/
 
@@ -199,8 +198,7 @@ Middleware is software that different applications use to communicate with each 
 
 JOI
 
-Joi in Express.js is a popular module for data validation. This module validates the data based on schemas. There are various functions like optional(),
-required(), min(), max(), etc which make it easy to use and a user-friendly module for validating the data.
+Joi in Express.js is a popular module for data validation. This module validates the data based on schemas. There are various functions like optional(), required(), min(), max(), etc. which make it easy to use and a user-friendly module for validating the data.
 
 MONGODB
 
