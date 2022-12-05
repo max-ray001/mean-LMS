@@ -55,9 +55,9 @@ MongoDB Cloud
 
 TO CLONE THIS ROPOSITORY:
 
-[GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+* [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-[Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
+* [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
 ***
 
@@ -108,21 +108,21 @@ default.
 
 TO DOWNLOAD:
 
-[Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
-[Node.js](https://nodejs.org/en/)
+* [Node.js](https://nodejs.org/en/)
 
 ***
 
 THE PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES ARE:
 
-Angular: Accept requests and display results to end-user.
+* Angular: Accept requests and display results to end-user.
 
-Node.js: Handle Client and Server Requests.
+* Node.js: Handle Client and Server Requests.
 
-Express.js: Make requests to Database and return a response.
+* Express.js: Make requests to Database and return a response.
 
-MongoDB: Store and retrieve data.
+* MongoDB: Store and retrieve data.
 
 ***
  
@@ -130,13 +130,13 @@ TO RUN THE APPLICATION:
 
 LMS Angular 
 
-1.) npm install
+-> npm install 
 
-2.) npm start
+-> npm start
 
 LMS Server 
 
-1.) npm start
+-> npm start
 
 ***
 
