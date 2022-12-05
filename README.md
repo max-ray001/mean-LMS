@@ -156,41 +156,31 @@ Keyboard Shortcuts - https://support.microsoft.com/en-us/windows/keyboard-shortc
 
 ***
 
-LANGUAGES:
+TO READ MORE ON THE LANGUAGES:
 
-JavaScript - https://javascript.info/
+*[JavaScript](https://javascript.info/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop] ( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 
-JavaScript Events - https://flaviocopes.com/javascript-events/
+*[ES6](https://www.programiz.com/javascript/ES6)
 
-JavaScript Eventloop - https://flaviocopes.com/javascript-event-loop/
+*[Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS]  (https://www.tutorialspoint.com/nodejs/index.htm)
 
-Asynchronous Javascript - https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+*[Mongoose](https://mongoosejs.com/docs/index.html)
 
-ES6 - https://www.programiz.com/javascript/ES6
+*[TypeScript](https://www.typescripttutorial.net/)
 
-Node.js - https://www.tutorialsteacher.com/nodejs  |  https://www.tutorialspoint.com/nodejs/index.htm
-
-Mongoose - https://mongoosejs.com/docs/index.html
-
-TypeScript - https://www.typescripttutorial.net/
-
-Angular - https://www.tektutorialshub.com/angular-tutorial/
+*[Angular](https://www.tektutorialshub.com/angular-tutorial/)
 
 ***
 
-TOOLS AND TECHNOLOGIES:
+TOOLS AND TECHNOLOGIES USED IN THIS PROJECT:
 
 VISUAL STUDIO CODE
 
-Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
-
-To download Visual Studio Code - https://code.visualstudio.com/
+[Visual Studio Code](https://code.visualstudio.com/), also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 
 EXPRESS.JS
 
-Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making decisions to give the correct responses for the requests made by the client.
-
-To download Node.js - https://nodejs.org/en/
+Express is a [node js](https://nodejs.org/en/) web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making decisions to give the correct responses for the requests made by the client.
 
 MIDDLEWARE
 
@@ -222,7 +212,7 @@ MongoDB: Store and retrieve data.
 
 ***
 
-1.) JSON Web Tokens - https://jwt.io/  |  https://jwt.io/introduction
+1.) [JSON Web Tokens](https://jwt.io/introduction) - https://jwt.io/  
 
 2.) A common use of JSON is to exchange data to/from a web server.
 
@@ -289,28 +279,16 @@ default.
 
 ***
 
-VIDEOS:
+REFERENCE VIDEOS:
 
-1.)Build A Node.js API Authentication With JWT Tutorial | Joi Validation
+1.)[Build A Node.js API Authentication With JWT Tutorial | Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
 
-https://www.youtube.com/watch?v=2jqok-WgelI
+2.)[CRUD REST API using Node | Express | MongoDB](https://youtu.be/eYVGoXPq2RA)
 
-2.)CRUD REST API using Node | Express | MongoDB
+3.)[Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
 
-https://youtu.be/eYVGoXPq2RA
+4.)[Angular Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1)
 
-3.)Create A Paginated API With Node.js
+5.)[Login and Registration](https://www.youtube.com/watch?v=toRmWFzB6-E)
 
-https://www.youtube.com/watch?v=ZX3qt0UWifc
-
-4.)Angular Tutorial
-
-https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1
-
-5.)Login and Registration
-
-https://www.youtube.com/watch?v=toRmWFzB6-E
-
-6.)Special Events Route Guard
-
-https://www.youtube.com/watch?v=7L80dKtfHe0
+6.)[Special Events Route Guard](https://www.youtube.com/watch?v=7L80dKtfHe0)
