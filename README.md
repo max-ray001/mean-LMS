@@ -51,6 +51,17 @@ MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
 
+***
+
+THE PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES ARE:
+
+* Angular: Accept requests and display results to end-user.
+
+* Node.js: Handle Client and Server Requests.
+
+* Express.js: Make requests to Database and return a response.
+
+* MongoDB: Store and retrieve data.
 
 ***
 
@@ -104,18 +115,6 @@ TO DOWNLOAD:
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 * [Node.js](https://nodejs.org/en/)
-
-***
-
-THE PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES ARE:
-
-* Angular: Accept requests and display results to end-user.
-
-* Node.js: Handle Client and Server Requests.
-
-* Express.js: Make requests to Database and return a response.
-
-* MongoDB: Store and retrieve data.
 
 ***
  
