@@ -51,6 +51,7 @@ MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
 
+***
 
 TO CLONE THIS ROPOSITORY:
 
@@ -58,6 +59,7 @@ TO CLONE THIS ROPOSITORY:
 
 [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
+***
 
 TEMPLATES:
 
@@ -65,8 +67,9 @@ TEMPLATES:
 
 2.) [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
+***
 
-TO KNOW MORE :
+TO READ MORE ON :
 
 1.) [JavaScript](https://javascript.info/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 
@@ -101,6 +104,7 @@ Mongoose will then set createdAt when the document is first inserted, and update
 findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
 default.
 
+***
 
 TO DOWNLOAD:
 
@@ -108,8 +112,9 @@ TO DOWNLOAD:
 
 [Node.js](https://nodejs.org/en/)
 
+***
 
-PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES:
+THE PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES ARE:
 
 Angular: Accept requests and display results to end-user.
 
@@ -119,18 +124,21 @@ Express.js: Make requests to Database and return a response.
 
 MongoDB: Store and retrieve data.
 
+***
  
 TO RUN THE APPLICATION:
 
 LMS Angular 
 
 1.) npm install
+
 2.) npm start
 
 LMS Server 
 
 1.) npm start
 
+***
 
 API’s BASED ON ROLES:
 
@@ -215,6 +223,7 @@ DELETE - /api/books/book_id (for deleting a book)
 
 PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
+***
 
 REFERENCE VIDEOS:
 
