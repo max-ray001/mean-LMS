@@ -146,13 +146,13 @@ PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
 ***
 
-GitHub - https://docs.github.com/en/get-started
+[GitHub](https://docs.github.com/en/get-started)
 
-Bootstrap - https://getbootstrap.com/docs/5.0/getting-started/introduction/
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-CoreUI Angular Admin Template - https://coreui.io/demos/angular/4.2/free/#/dashboard
+[CoreUI Angular Admin Template](https://coreui.io/demos/angular/4.2/free/#/dashboard)
 
-Keyboard Shortcuts - https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10
+[Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
 ***
 
@@ -162,7 +162,7 @@ TO READ MORE ON THE LANGUAGES:
 
 *[ES6](https://www.programiz.com/javascript/ES6)
 
-*[Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS]  (https://www.tutorialspoint.com/nodejs/index.htm)
+*[Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm)
 
 *[Mongoose](https://mongoosejs.com/docs/index.html)
 
