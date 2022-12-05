@@ -217,7 +217,7 @@ PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
 ***
 
-REFERENCE VIDEOS:
+VIDEOS:
 
 1.) [Build A Node.js API Authentication With JWT Tutorial | Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
 
