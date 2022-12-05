@@ -51,13 +51,13 @@ MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
 
-***
 
-TO CLONE THE ROPOSITORY:
+TO CLONE THIS ROPOSITORY:
 
-1.) [GitHub](https://docs.github.com/en/get-started)
+[GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-2.) [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
+[Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
+
 
 TEMPLATES:
 
@@ -65,9 +65,8 @@ TEMPLATES:
 
 2.) [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-***
 
-LANGUAGES:
+TO KNOW MORE :
 
 1.) [JavaScript](https://javascript.info/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 
@@ -81,16 +80,36 @@ LANGUAGES:
 
 6.) [Angular](https://www.tektutorialshub.com/angular-tutorial/)
 
-***
+7.) [JSON Web Tokens](https://jwt.io/) - https://jwt.io/introduction 
 
-TOOLS:
+8.) A common use of JSON is to exchange data to/from a web server.
+
+When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
+
+When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
+
+9.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
+before the actual request is sent, in order to ask which origin and which request options the server accepts.
+
+10.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
+
+createdAt: a date representing when this document was created
+
+updatedAt: a date representing when this document was last updated
+
+Mongoose will then set createdAt when the document is first inserted, and update updatedAt whenever you update the document using save(), updateOne(), updateMany(),
+findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
+default.
+
+
+TO DOWNLOAD:
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Node.js](https://nodejs.org/en/)
 
 
-TECHNOLOGIES:
+PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES:
 
 Angular: Accept requests and display results to end-user.
 
@@ -100,15 +119,13 @@ Express.js: Make requests to Database and return a response.
 
 MongoDB: Store and retrieve data.
 
-***
  
-To run the Application:
+TO RUN THE APPLICATION:
 
 LMS Angular - npm start
 
 LMS Server - npm start
 
-***
 
 API’s BASED ON ROLES:
 
@@ -193,32 +210,6 @@ DELETE - /api/books/book_id (for deleting a book)
 
 PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
 
-***
-
-TO KNOW MORE ON:
-
-1.) [JSON Web Tokens](https://jwt.io/) - https://jwt.io/introduction 
-
-2.) A common use of JSON is to exchange data to/from a web server.
-
-When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
-
-When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
-
-3.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
-before the actual request is sent, in order to ask which origin and which request options the server accepts.
-
-4.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
-
-createdAt: a date representing when this document was created
-
-updatedAt: a date representing when this document was last updated
-
-Mongoose will then set createdAt when the document is first inserted, and update updatedAt whenever you update the document using save(), updateOne(), updateMany(),
-findOneAndUpdate(), update(), replaceOne(), or bulkWrite(). The createdAt property is immutable, and Mongoose overwrites any user-specified updates to updatedAt by
-default.
-
-***
 
 REFERENCE VIDEOS:
 
