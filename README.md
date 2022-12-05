@@ -122,9 +122,14 @@ MongoDB: Store and retrieve data.
  
 TO RUN THE APPLICATION:
 
-LMS Angular - npm start
+LMS Angular 
 
-LMS Server - npm start
+1.) npm install
+2.) npm start
+
+LMS Server 
+
+1.) npm start
 
 
 API’s BASED ON ROLES:
