@@ -61,7 +61,7 @@ TO CLONE THIS ROPOSITORY:
 
 ***
 
-TEMPLATES:
+TEMPLATES USED:
 
 1.) [CoreUI Angular Admin Template](https://coreui.io/demos/angular/4.2/free/#/dashboard)
 
