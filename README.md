@@ -51,48 +51,43 @@ MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
 
-***
-
-TO CLONE THIS ROPOSITORY:
-
-* [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-
-* [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
-
-TEMPLATES USED:
-
-1.) [CoreUI Angular Admin Template](https://coreui.io/demos/angular/4.2/free/#/dashboard)
-
-2.) [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ***
 
-TO READ MORE ON :
+TO READ MORE ON:
 
-1.) [JavaScript](https://javascript.info/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
+1.) [Cloning the ropository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-2.) [ES6](https://www.programiz.com/javascript/ES6)
+2.) [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
-3.) [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm)
+3.) [CoreUI Angular Admin Template](https://coreui.io/demos/angular/4.2/free/#/dashboard)
 
-4.) [Mongoose](https://mongoosejs.com/docs/index.html)
+4.) [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-5.) [TypeScript](https://www.typescripttutorial.net/)
+5.) [JavaScript](https://javascript.info/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 
-6.) [Angular](https://www.tektutorialshub.com/angular-tutorial/)
+6.) [ES6](https://www.programiz.com/javascript/ES6)
 
-7.) [JSON Web Tokens](https://jwt.io/) - https://jwt.io/introduction 
+7.) [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm)
 
-8.) A common use of JSON is to exchange data to/from a web server.
+8.) [Mongoose](https://mongoosejs.com/docs/index.html)
+
+9.) [TypeScript](https://www.typescripttutorial.net/)
+
+10.) [Angular](https://www.tektutorialshub.com/angular-tutorial/)
+
+11.) [JSON Web Tokens](https://jwt.io/) - https://jwt.io/introduction 
+
+12.) A common use of JSON is to exchange data to/from a web server.
 
 When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
 
 When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
 
-9.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
+14.) Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
 before the actual request is sent, in order to ask which origin and which request options the server accepts.
 
-10.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
+15.) Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
 
 createdAt: a date representing when this document was created
 
