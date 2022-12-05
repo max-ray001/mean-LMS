@@ -53,112 +53,25 @@ MongoDB Cloud
 
 ***
 
-To run the Application:
+READ MORE:
 
-LMS Angular - npm start
+*[GitHub](https://docs.github.com/en/get-started)
 
-LMS Server - npm start
-
-***
-
-API’s BASED ON ROLES:
-
-Users
-
-POST - /api/usersauth/userregister
-
-POST - /api/usersauth/userlogin
-
-GET - /api/users/bookcount/book_id (view stock count of a book)
-
-GET - /api/users/userbooks?page=1&limit=2 (view all books owned by a user)
-
-GET - /api/users/userbooks (view all books owned by a user)
-
-GET - /api/users/user (view signed in user)
-
-GET - /api/books/categorybooks (for getting a category of books)
-
-GET - /api/books/allbooks (view all books)
-
-Admins
-
-POST - /api/adminsauth/adminregister
-
-POST - /api/adminsauth/adminlogin
-
-GET - /api/admins/alladmins (view all admins)
-
-GET- /api/admins/allmembers (view all members)
-
-GET- /api/admins/alllibrarians (view all librarians)
-
-GET - /api/admins/users/allusers (view all users)
-
-POST- /api/admins (add an admin)
-
-GET - /api/admins/admin_id (view an admin)
-
-PUT - /api/admins/admin_id (update an admin)
-
-DELETE - /api/admins/admin_id (delete an admin)
-
-POST- /api/admins/users ( add a user)
-
-GET - /api/admins/users/user_id (view a user)
-
-PUT - /api/admins/users/user_id (update a user)
-
-DELETE - /api/admins/users/user_id (delete a user)
-
-Librarians
-
-GET - /api/librarians/userbooks (view details of books owned by a user)
-
-GET - /api/librarians/bookusers/book_id (view details of users who own a book
-with same id)
-
-GET - /api/librarians/status/pending (for getting pending status user details)
-
-GET - /api/librarians/status/returned (for getting status returned user details)
-
-GET - /api/issuebooks/issue_id (for getting all records in IssueBooks)
-
-POST - /api/issuebooks/issue_id (for adding a record in IssueBooks)
-
-PUT- /api/issuebooks/issue_id (for updating a record in IssueBooks)
-
-DELETE - /api/issuebooks/issue_id (for deleting a record in IssueBooks)
-
-PUT - /api/librarians/fineentry/issue_id (for updating fine amount)
-
-POST - /api/books/book_id (for adding a book)
-
-PUT - /api/librarians/bulkupload (for bulk uploading books)
-
-GET - /api/books/book_id (for getting details of a book)
-
-PUT- /api/books/book_id (for updating a book details)
-
-DELETE - /api/books/book_id (for deleting a book)
-
-PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
+*[Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
 ***
 
-[GitHub](https://docs.github.com/en/get-started)
-
-[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+TEMPLATES:
 
 [CoreUI Angular Admin Template](https://coreui.io/demos/angular/4.2/free/#/dashboard)
 
-[Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ***
 
-TO READ MORE ON THE LANGUAGES:
+LANGUAGES:
 
-*[JavaScript](https://javascript.info/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop] ( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
+*[JavaScript](https://javascript.info/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 
 *[ES6](https://www.programiz.com/javascript/ES6)
 
@@ -172,7 +85,7 @@ TO READ MORE ON THE LANGUAGES:
 
 ***
 
-TOOLS AND TECHNOLOGIES USED IN THIS PROJECT:
+TOOLS AND TECHNOLOGIES:
 
 VISUAL STUDIO CODE
 
@@ -279,16 +192,109 @@ default.
 
 ***
 
+To run the Application:
+
+LMS Angular - npm start
+
+LMS Server - npm start
+
+***
+
+API’s BASED ON ROLES:
+
+Users
+
+POST - /api/usersauth/userregister
+
+POST - /api/usersauth/userlogin
+
+GET - /api/users/bookcount/book_id (view stock count of a book)
+
+GET - /api/users/userbooks?page=1&limit=2 (view all books owned by a user)
+
+GET - /api/users/userbooks (view all books owned by a user)
+
+GET - /api/users/user (view signed in user)
+
+GET - /api/books/categorybooks (for getting a category of books)
+
+GET - /api/books/allbooks (view all books)
+
+Admins
+
+POST - /api/adminsauth/adminregister
+
+POST - /api/adminsauth/adminlogin
+
+GET - /api/admins/alladmins (view all admins)
+
+GET- /api/admins/allmembers (view all members)
+
+GET- /api/admins/alllibrarians (view all librarians)
+
+GET - /api/admins/users/allusers (view all users)
+
+POST- /api/admins (add an admin)
+
+GET - /api/admins/admin_id (view an admin)
+
+PUT - /api/admins/admin_id (update an admin)
+
+DELETE - /api/admins/admin_id (delete an admin)
+
+POST- /api/admins/users ( add a user)
+
+GET - /api/admins/users/user_id (view a user)
+
+PUT - /api/admins/users/user_id (update a user)
+
+DELETE - /api/admins/users/user_id (delete a user)
+
+Librarians
+
+GET - /api/librarians/userbooks (view details of books owned by a user)
+
+GET - /api/librarians/bookusers/book_id (view details of users who own a book
+with same id)
+
+GET - /api/librarians/status/pending (for getting pending status user details)
+
+GET - /api/librarians/status/returned (for getting status returned user details)
+
+GET - /api/issuebooks/issue_id (for getting all records in IssueBooks)
+
+POST - /api/issuebooks/issue_id (for adding a record in IssueBooks)
+
+PUT- /api/issuebooks/issue_id (for updating a record in IssueBooks)
+
+DELETE - /api/issuebooks/issue_id (for deleting a record in IssueBooks)
+
+PUT - /api/librarians/fineentry/issue_id (for updating fine amount)
+
+POST - /api/books/book_id (for adding a book)
+
+PUT - /api/librarians/bulkupload (for bulk uploading books)
+
+GET - /api/books/book_id (for getting details of a book)
+
+PUT- /api/books/book_id (for updating a book details)
+
+DELETE - /api/books/book_id (for deleting a book)
+
+PUT - /api/librarians/bulkdelete (for bulk deleting with book id’s)
+
+***
+
 REFERENCE VIDEOS:
 
-1.)[Build A Node.js API Authentication With JWT Tutorial | Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
+1.) [Build A Node.js API Authentication With JWT Tutorial | Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
 
-2.)[CRUD REST API using Node | Express | MongoDB](https://youtu.be/eYVGoXPq2RA)
+2.) [CRUD REST API using Node | Express | MongoDB](https://youtu.be/eYVGoXPq2RA)
 
-3.)[Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
+3.) [Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
 
-4.)[Angular Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1)
+4.) [Angular Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1)
 
-5.)[Login and Registration](https://www.youtube.com/watch?v=toRmWFzB6-E)
+5.) [Login and Registration](https://www.youtube.com/watch?v=toRmWFzB6-E)
 
-6.)[Special Events Route Guard](https://www.youtube.com/watch?v=7L80dKtfHe0)
+6.) [Special Events Route Guard](https://www.youtube.com/watch?v=7L80dKtfHe0)
