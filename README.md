@@ -87,7 +87,7 @@ TO READ MORE ON:
 
 10.) [Angular](https://www.tektutorialshub.com/angular-tutorial/)
 
-11.) [JWT](https://jwt.io/) | [JSON Web Tokens]https://jwt.io/introduction 
+11.) [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
 12.) A common use of JSON is to exchange data to/from a web server.
 
