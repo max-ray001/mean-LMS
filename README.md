@@ -3,7 +3,7 @@
  
 (Implementation of Template driven & Reactive forms, Form validation, Password hashing, Role based access, JWT Authentication, AuthGuard, Middleware, HTTP Interceptors, Services, Proxy Configuration, HTTP requests, Controller, Components & Directives, Profile, Pagination, Pipes, Primary & Foreign Key, Populate, Add, Update, Delete, Bulk upload & Bulk delete concepts.)
 
-User
+* User
 
 ![image](https://user-images.githubusercontent.com/66171389/198881453-05c3e5fc-a3fb-4811-ac04-eafded9f7749.png)
 
@@ -19,7 +19,7 @@ User
 
 ![image](https://user-images.githubusercontent.com/66171389/198881737-ef90a032-d26b-47d2-8e03-80e4f3e467d8.png)
 
-Admins
+* Admins
 
 ![image](https://user-images.githubusercontent.com/66171389/198881952-6d0b0fe0-373e-4eee-947a-fda3326111dc.png)
 
@@ -27,7 +27,7 @@ Admins
 
 ![image](https://user-images.githubusercontent.com/66171389/198882063-3ad69a6f-4fde-490e-bd30-08359273cc0f.png)
 
-Librarians
+* Librarians
 
 ![image](https://user-images.githubusercontent.com/66171389/198882316-d40b1fd7-82f8-44cc-91bc-6d38dd4754f3.png)
 
@@ -39,7 +39,7 @@ Librarians
 
 ![image](https://user-images.githubusercontent.com/66171389/198882668-d3f885bb-2d62-44de-96c4-e277c351e3c8.png)
 
-Postman
+* Postman
 
 ![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
 
@@ -47,7 +47,7 @@ Postman
 
 ![image](https://user-images.githubusercontent.com/66171389/199182213-624b7d52-c47b-412d-b82f-cb2933605703.png)
 
-MongoDB Cloud
+* MongoDB Cloud
 
 ![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
 
