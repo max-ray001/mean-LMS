@@ -120,13 +120,13 @@ TO DOWNLOAD:
  
 TO RUN THE APPLICATION:
 
-LMS Angular 
+* LMS Angular 
 
 -> npm install 
 
 -> npm start
 
-LMS Server 
+* LMS Server 
 
 -> npm start
 
@@ -134,7 +134,7 @@ LMS Server
 
 API’s BASED ON ROLES:
 
-Users
+* Users
 
 POST - /api/usersauth/userregister
 
@@ -152,7 +152,7 @@ GET - /api/books/categorybooks (for getting a category of books)
 
 GET - /api/books/allbooks (view all books)
 
-Admins
+* Admins
 
 POST - /api/adminsauth/adminregister
 
@@ -182,7 +182,7 @@ PUT - /api/admins/users/user_id (update a user)
 
 DELETE - /api/admins/users/user_id (delete a user)
 
-Librarians
+* Librarians
 
 GET - /api/librarians/userbooks (view details of books owned by a user)
 
