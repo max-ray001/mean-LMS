@@ -65,7 +65,7 @@ THE PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES ARE:
 
 ***
 
-TO KNOW MORE ON:
+TO KNOW MORE:
 
 * [Cloning the ropository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
