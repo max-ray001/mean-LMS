@@ -81,6 +81,8 @@ TO KNOW MORE:
 
 * [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm)
 
+* [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
+
 * [Mongoose](https://mongoosejs.com/docs/index.html)
 
 * [TypeScript](https://www.typescripttutorial.net/)
