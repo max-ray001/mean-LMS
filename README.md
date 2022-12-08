@@ -79,19 +79,13 @@ TO KNOW MORE:
 
 * [ES6](https://www.programiz.com/javascript/ES6)
 
-* [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm)
-
-* [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
+* [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
 
 * [Mongoose](https://mongoosejs.com/docs/index.html)
 
 * [TypeScript](https://www.typescripttutorial.net/)
 
-* [Angular](https://www.tektutorialshub.com/angular-tutorial/)
-
-* [ng-select dropdown in Angular | Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY)
-
-* [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
+* [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
 
 * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
