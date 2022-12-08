@@ -91,6 +91,8 @@ TO KNOW MORE:
 
 * [ng-select dropdown in Angular | Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY)
 
+* [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
+
 * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
 * A common use of JSON is to exchange data to/from a web server.
