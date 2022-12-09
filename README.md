@@ -79,13 +79,13 @@ TO KNOW MORE:
 
 * [ES6](https://www.programiz.com/javascript/ES6)
 
-* [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
+* [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm) 
 
 * [Mongoose](https://mongoosejs.com/docs/index.html)
 
 * [TypeScript](https://www.typescripttutorial.net/)
 
-* [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
+* [Angular](https://www.tektutorialshub.com/angular-tutorial/) 
 
 * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
@@ -243,11 +243,11 @@ VIDEOS:
 
 * [Build A Node.js API Authentication With JWT Tutorial | Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
 
-* [CRUD REST API using Node | Express | MongoDB](https://youtu.be/eYVGoXPq2RA)
+* [CRUD REST API using Node | Express | MongoDB](https://youtu.be/eYVGoXPq2RA) | | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
 
 * [Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
 
-* [Angular Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1)
+* [Angular Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
 
 * [Login and Registration](https://www.youtube.com/watch?v=toRmWFzB6-E)
 
