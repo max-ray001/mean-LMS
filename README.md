@@ -79,7 +79,7 @@ TO KNOW MORE:
 
 * [ES6](https://www.programiz.com/javascript/ES6)
 
-* [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm) 
+* [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc) 
 
 * [Mongoose](https://mongoosejs.com/docs/index.html)
 
@@ -243,7 +243,7 @@ VIDEOS:
 
 * [Build A Node.js API Authentication With JWT Tutorial | Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
 
-* [CRUD REST API using Node , Express & MongoDB](https://youtu.be/eYVGoXPq2RA)  | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc)
+* [CRUD REST API using Node , Express & MongoDB](https://youtu.be/eYVGoXPq2RA)  
 
 * [Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
 
