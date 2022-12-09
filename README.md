@@ -110,7 +110,7 @@ default.
 
 ***
 
-TOOLS AND TECHNOLOGIES
+TOOLS AND TECHNOLOGIES:
 
 Visual Studio Code
 
