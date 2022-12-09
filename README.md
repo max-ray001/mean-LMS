@@ -132,6 +132,10 @@ MongoDB
 
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions.
 
+Postman
+
+[Postman](https://www.postman.com/downloads/) is an API platform for developers to design, build, test and iterate their APIs.
+
 ***
  
 TO RUN THE APPLICATION:
