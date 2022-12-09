@@ -112,55 +112,25 @@ default.
 
 TOOLS AND TECHNOLOGIES
 
-VISUAL STUDIO CODE
-Visual Studio Code, also commonly referred to as VS Code, is
-a source-code editor made by Microsoft for Windows, Linux and macOS.
-Features include support for debugging, syntax highlighting, intelligent code
-completion, snippets, code refactoring, and embedded Git. Users can change
-the theme, keyboard shortcuts, preferences, and install extensions that add
-additional functionality.
+Visual Studio Code
 
-EXPRESS.JS
-Express is a node js web application framework that provides broad
-features for building web and mobile applications. It is used to build a single
-page, multipage and hybrid web application. It is a layer built on the top of the
-Node js that helps manage servers and routes. Express was created to make APIs
-and web applications with ease. Express.js provides simple routing for requests
-made by clients. It also provides a middleware that is responsible for making
-decisions to give the correct responses for the requests made by the client.
+[Visual Studio Code](https://code.visualstudio.com/), also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 
-MIDDLEWARE
-Middleware is software that different applications use to
-communicate with each other. It provides functionality to connect applications
-intelligently and efficiently so that you can innovate faster. Middleware acts
-as a bridge between diverse technologies, tools and databases so that you can
-integrate them seamlessly into a single system. The single system then provides
-a unified service to its users. For example, a Windows frontend application
-sends and receives data from a Linux backend server, but the application users
-are unaware of the difference. Example of picture is shown in Figure A.1.
-The primary or most commonly-used HTTP methods are POST, GET, PUT,
-PATCH, and DELETE.
+Express.js
 
-JOI
-Joi in Express.js is a popular module for data validation. This module
-validates the data based on schemas. There are various functions like optional(),
-required(), min(), max(), etc which make it easy to use and a user-friendly
-module for validating the data.
+Express.js is a [Node.js](https://nodejs.org/en/) web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making decisions to give the correct responses for the requests made by the client.
 
-MONGODB
-MongoDB is a source-available cross-platform document-oriented
-database program. Classified as a NoSQL database program, MongoDB uses
-JSON-like documents with optional schemas. MongoDB is developed by
-MongoDB Inc. and licensed under the Server Side Public License (SSPL) which
-is deemed non-free by several distributions.
+Middleware
 
-***
+Middleware is software that different applications use to communicate with each other. It provides functionality to connect applications intelligently and efficiently so that you can innovate faster. Middleware acts as a bridge between diverse technologies, tools and databases so that you can integrate them seamlessly into a single system. The single system then provides a unified service to its users. For example, a Windows frontend application sends and receives data from a Linux backend server, but the application users are unaware of the difference. Example of picture is shown in Figure A.1. The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE.
 
-TO DOWNLOAD:
+Joi
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+Joi in Express.js is a popular module for data validation. This module validates the data based on schemas. There are various functions like optional(), required(), min(), max(), etc which make it easy to use and a user-friendly module for validating the data.
 
-* [Node.js](https://nodejs.org/en/)
+MongoDB
+
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions.
 
 ***
  
