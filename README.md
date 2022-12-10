@@ -47,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/66171389/199182213-624b7d52-c47b-412d-b82f-cb2933605703.png)
 
-* MongoDB Cloud
+* MongoDB Atlas
 
 ![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
 
