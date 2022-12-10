@@ -7,31 +7,33 @@
 
 ![image](https://user-images.githubusercontent.com/66171389/198881453-05c3e5fc-a3fb-4811-ac04-eafded9f7749.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198881397-2a1462af-1d0d-484e-a04f-cf89af9a79eb.png)
+![image](https://user-images.githubusercontent.com/66171389/206866035-6baad178-e583-4930-8aad-3e44289abad4.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198881370-dbf82c56-fc44-45c9-a913-bcc07db3992a.png)
+![image](https://user-images.githubusercontent.com/66171389/206866133-0a532551-87d9-494e-bab3-f4eb21962568.png)
 
 ![image](https://user-images.githubusercontent.com/66171389/198881291-b6955332-4d8c-4e4a-8c3d-d587912a319b.png)
 
 ![image](https://user-images.githubusercontent.com/66171389/198881497-dc9b5f9b-c225-422a-9fd3-2403dbadaaa8.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198881523-33e19b45-6ca8-46b1-be73-2bce2291afd4.png)
+![image](https://user-images.githubusercontent.com/66171389/206864679-4efbe0c7-aa36-48f9-a5fe-d746cf3dc8e8.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198881737-ef90a032-d26b-47d2-8e03-80e4f3e467d8.png)
+![image](https://user-images.githubusercontent.com/66171389/206864611-a9e7e00a-a82b-4283-8048-9b44a965637f.png)
 
 &nbsp; * Admins
 
-![image](https://user-images.githubusercontent.com/66171389/198881952-6d0b0fe0-373e-4eee-947a-fda3326111dc.png)
+![image](https://user-images.githubusercontent.com/66171389/206864728-7f038ea2-7937-4f7a-a37d-36f6fd0dd0d0.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198881971-695720fc-d3f8-4e34-b6fa-4d9591ff8fcd.png)
+![image](https://user-images.githubusercontent.com/66171389/206864765-fffe2af4-f65f-4e55-9893-9cf058f831be.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198882063-3ad69a6f-4fde-490e-bd30-08359273cc0f.png)
+![image](https://user-images.githubusercontent.com/66171389/206864822-8e37471a-0ead-4080-b271-924f625ccd08.png)
+
+![image](https://user-images.githubusercontent.com/66171389/206866343-b4153138-75d3-47b6-a850-9716adb43487.png)
 
 &nbsp; * Librarians
 
-![image](https://user-images.githubusercontent.com/66171389/198882316-d40b1fd7-82f8-44cc-91bc-6d38dd4754f3.png)
+![image](https://user-images.githubusercontent.com/66171389/206865697-716514c4-9418-44e3-b14b-9b49df25cb36.png)
 
-![image](https://user-images.githubusercontent.com/66171389/198884125-0f94ad3f-5698-4e1c-a489-0244e69d08ea.png)
+![image](https://user-images.githubusercontent.com/66171389/206865748-1839edfd-42c4-4947-9190-bfd7d970ce78.png)
 
 ![WhatsApp Image 2022-10-30 at 7 51 00 PM](https://user-images.githubusercontent.com/66171389/198883702-cac1c372-458e-489c-8f97-dd1d8028aacc.jpeg)
 
