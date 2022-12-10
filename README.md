@@ -75,8 +75,8 @@ TO KNOW MORE:
 
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-* [JavaScript](https://javascript.info/) |[Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) |  [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) |
-[JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/)
+* [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) |  [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) |
+[JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/)
 
 * [ES6](https://www.programiz.com/javascript/ES6)
 
@@ -113,30 +113,30 @@ default.
 
 TOOLS AND TECHNOLOGIES:
 
-Visual Studio Code
+* Visual Studio Code
 
 [Visual Studio Code](https://code.visualstudio.com/), also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 
-Express.js
+* Express.js
 
 Express.js is a [Node.js](https://nodejs.org/en/) web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making decisions to give the correct responses for the requests made by the client.
 
-Middleware
+* Middleware
 
 Middleware is software that different applications use to communicate with each other. It provides functionality to connect applications intelligently and efficiently so that you can innovate faster. Middleware acts as a bridge between diverse technologies, tools and databases so that you can integrate them seamlessly into a single system. The single system then provides a unified service to its users. For example, a Windows frontend application sends and receives data from a Linux backend server, but the application users are unaware of the difference. Example of picture is shown in Figure A.1. The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE.
 
 ![Middleware](https://user-images.githubusercontent.com/66171389/206621675-be3cb322-e828-437a-8c0e-75c5144429a9.png)
 
 
-Joi
+* Joi
 
 Joi in Express.js is a popular module for data validation. This module validates the data based on schemas. There are various functions like optional(), required(), min(), max(), etc which make it easy to use and a user-friendly module for validating the data.
 
-MongoDB
+* MongoDB
 
 MongoDB stores data records as documents which are gathered together in collections. A database stores one or more collections of documents.MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions.
 
-Postman
+* Postman
 
 [Postman](https://www.postman.com/downloads/) is an API platform for developers to design, build, test and iterate their APIs.
 
