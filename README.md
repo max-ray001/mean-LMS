@@ -122,7 +122,7 @@ TOOLS AND TECHNOLOGIES:
 
 Express.js is a [Node.js](https://nodejs.org/en/) web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage and hybrid web application. It is a layer built on the top of the Node js that helps manage servers and routes. Express was created to make APIs and web applications with ease. Express.js provides simple routing for requests made by clients. It also provides a middleware that is responsible for making decisions to give the correct responses for the requests made by the client.
 
-* Middleware
+&nbsp;* Middleware
 
 &emsp; Middleware is software that different applications use to communicate with each other. It provides functionality to connect applications intelligently and efficiently so that you can innovate faster. Middleware acts as a bridge between diverse technologies, tools and databases so that you can integrate them seamlessly into a single system. The single system then provides a unified service to its users. For example, a Windows frontend application sends and receives data from a Linux backend server, but the application users are unaware of the difference. Example of picture is shown in Figure A.1. The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE.
 
