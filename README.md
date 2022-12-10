@@ -83,11 +83,11 @@ TO KNOW MORE:
 
 * [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc) 
 
-* [Mongoose](https://mongoosejs.com/docs/index.html)
+* [Mongoose](https://mongoosejs.com/docs/api/model.html)
 
 * [TypeScript](https://www.typescripttutorial.net/)
 
-* [Angular](https://www.tektutorialshub.com/angular-tutorial/) |[Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form) 
+* [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form) 
 
 * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
