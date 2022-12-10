@@ -77,9 +77,7 @@ TO KNOW MORE:
 
 &nbsp; * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | 
-
-&emsp; [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
+&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
 
 &nbsp; * [Moment.js](https://momentjs.com/)
 
@@ -99,17 +97,11 @@ TO KNOW MORE:
 
 &emsp;  When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
 
-&emsp;  When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript
+&emsp;  When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
 
-&emsp; object. 
+&nbsp; * Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server before the actual request is sent, in order to ask which origin and which request options the server accepts.
 
-&nbsp; * Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent
-
-&emsp; to the server before the actual request is sent, in order to ask which origin and which request options the server accepts.
-
-&nbsp; * Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your
-
-&emsp; schema:
+&nbsp; * Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
 
 &emsp; createdAt: a date representing when this document was created
 
