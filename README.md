@@ -43,7 +43,7 @@
 
 &nbsp;* Postman
 
-![WhatsApp Image 2022-10-30 at 5 26 03 PM](https://user-images.githubusercontent.com/66171389/198877292-3bbfba81-4667-4109-932e-f15a3c2e3b87.jpeg)
+![image](https://user-images.githubusercontent.com/66171389/206867263-77d6b9a7-4f62-42a0-988d-a3128cc72aff.png)
 
 ![image](https://user-images.githubusercontent.com/66171389/199181158-6f7cd478-5fc0-42cb-bcf2-30a6efde2150.png)
 
@@ -51,7 +51,7 @@
 
 &nbsp; * MongoDB Atlas
 
-![image](https://user-images.githubusercontent.com/66171389/199181704-07d86b31-0b76-4008-88ff-4cf6a674df77.png)
+![image](https://user-images.githubusercontent.com/66171389/206867352-63a619cf-ca08-4e17-b4a3-a4bacdfb27cd.png)
 
 ***
 
