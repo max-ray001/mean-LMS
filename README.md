@@ -83,7 +83,7 @@ TO KNOW MORE:
 
 &nbsp; * [ES6](https://www.programiz.com/javascript/ES6)
 
-&nbsp; * [Node.js](https://www.tutorialsteacher.com/nodejs)  | [NodeJS](https://www.tutorialspoint.com/nodejs/index.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc) 
+&nbsp; * [Node.js](https://www.tutorialsteacher.com/nodejs)  | [Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc) 
 
 &nbsp; * [Mongoose](https://mongoosejs.com/docs/api/model.html)
 
@@ -121,7 +121,7 @@ TOOLS AND TECHNOLOGIES:
 
 &nbsp; * Middleware
 
-&emsp; Middleware is software that different applications use to communicate with each other. It provides functionality to connect applications intelligently and efficiently so that you can innovate faster. Middleware acts as a bridge between diverse technologies, tools and databases so that you can integrate them seamlessly into a single system. The single system then provides a unified service to its users. For example, a Windows frontend application sends and receives data from a Linux backend server, but the application users are unaware of the difference. Example of picture is shown in Figure A.1. The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE.
+&emsp; Middleware is software that different applications use to communicate with each other. It provides functionality to connect applications intelligently and efficiently so that you can innovate faster. Middleware acts as a bridge between diverse technologies, tools and databases so that you can integrate them seamlessly into a single system. The single system then provides a unified service to its users. For example, a Windows frontend application sends and receives data from a Linux backend server, but the application users are unaware of the difference. The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE.
 
 ![Middleware](https://user-images.githubusercontent.com/66171389/206621675-be3cb322-e828-437a-8c0e-75c5144429a9.png)
 
