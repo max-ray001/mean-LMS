@@ -87,7 +87,7 @@ TO KNOW MORE:
 
 * [TypeScript](https://www.typescripttutorial.net/)
 
-* [Angular](https://www.tektutorialshub.com/angular-tutorial/) 
+* [Angular](https://www.tektutorialshub.com/angular-tutorial/) |[Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form) 
 
 * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
