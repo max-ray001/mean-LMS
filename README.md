@@ -75,8 +75,9 @@ TO KNOW MORE:
 
 &nbsp; * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) |  [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) |
-[JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
+&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | 
+
+&emsp; [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
 
 &nbsp; * [Moment.js](https://momentjs.com/)
 
@@ -94,14 +95,19 @@ TO KNOW MORE:
 
 &nbsp; * A common use of [JSON](https://jsonformatter.org/) is to exchange data to/from a web server.
 
-When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
+&emsp;  When sending data to a web server, the data has to be a string. Use JSON.stringify() to convert a JavaScript object into a string.
 
-When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript object. 
+&emsp;  When receiving data from a web server, the data is always a string. Parse the data with JSON.parse(), and the data becomes a JavaScript
 
-&nbsp; * Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent to the server
-before the actual request is sent, in order to ask which origin and which request options the server accepts.
+&emsp; object. 
 
-&nbsp; * Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your schema:
+&nbsp; * Calling app.use(cors()) will enable the express server to respond to preflight requests. A preflight request is basically an OPTION request sent
+
+&emsp; to the server before the actual request is sent, in order to ask which origin and which request options the server accepts.
+
+&nbsp; * Mongoose schemas support a timestamps option. If you set timestamps: true, Mongoose will add two properties of type Date to your
+
+&emsp; schema:
 
 &emsp; createdAt: a date representing when this document was created
 
@@ -131,7 +137,7 @@ TOOLS AND TECHNOLOGIES:
 
 &nbsp; * MongoDB
 
-&emsp; [MongoDB](https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-in_ps-all_desktop_eng_lead&utm_term=cloud%20mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&adgroup=115749713263&gclid=CjwKCAiA-dCcBhBQEiwAeWidtccqNum24cefUZO2M7rjp-TRu1WZgv_Yzmj1-6Iux7HqGtcEY2JQkRoCrJcQAvD_BwE) stores data records as documents which are gathered together in collections. A database stores one or more collections of documents.MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions.
+&emsp; [MongoDB](https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-in_ps-all_desktop_eng_lead&utm_term=cloud%20mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&adgroup=115749713263&gclid=CjwKCAiA-dCcBhBQEiwAeWidtccqNum24cefUZO2M7rjp-TRu1WZgv_Yzmj1-6Iux7HqGtcEY2JQkRoCrJcQAvD_BwE) stores data records as documents which are gathered together in collections. A database stores one or more collections of documents. MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions.
 
 &nbsp; * Postman
 
@@ -245,7 +251,9 @@ API’s BASED ON ROLES:
 
 &emsp; * [Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
 
-&emsp; * [Angular Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
+&emsp; * [Angular Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) |
+
+&emsp; [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
 
 &emsp; * [Login and Registration](https://www.youtube.com/watch?v=toRmWFzB6-E)
 
