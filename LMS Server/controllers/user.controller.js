@@ -1,6 +1,6 @@
-const IssueBooks = require("../model/issuebook");
-const Books = require("../model/book");
-const Users = require("../model/user");
+const IssueBooks = require("../models/issuebook");
+const Books = require("../models/book");
+const Users = require("../models/user");
 
 exports.userBooks = (req, res) => {
   console.log(req.role);

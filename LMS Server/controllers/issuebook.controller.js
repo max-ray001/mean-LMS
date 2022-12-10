@@ -1,4 +1,4 @@
-const IssueBooks = require("../model/issuebook");
+const IssueBooks = require("../models/issuebook");
 
 exports.allIssues = async (req, res) => {
   if (req.role === "librarian" || req.role === "admin") {
@@ -21,7 +21,6 @@ exports.getIssue = async (req, res) => {
         .populate("book_id")
         .populate("user_id")
         .exec();
-
       res.status(200).json(issue);
     } catch (err) {
       res.status(500).json("Error " + err);
@@ -32,7 +31,6 @@ exports.getIssue = async (req, res) => {
 exports.addIssue = async (req, res) => {
   if (req.role === "librarian" || req.role === "admin") {
     const issue = new IssueBooks(req.body);
-
     try {
       const i1 = await issue.save();
       res.status(200).json(i1);

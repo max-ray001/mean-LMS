@@ -1,5 +1,5 @@
-const IssueBooks = require("../model/issuebook");
-const Books = require("../model/book");
+const IssueBooks = require("../models/issuebook");
+const Books = require("../models/book");
 const moment = require("moment");
 
 exports.bookUsers = async (req, res) => {

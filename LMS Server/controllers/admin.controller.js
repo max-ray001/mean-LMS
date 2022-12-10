@@ -1,7 +1,7 @@
-const Users = require("../model/user");
-const Issues = require("../model/issuebook");
+const Users = require("../models/user");
+const Issues = require("../models/issuebook");
 const bcrypt = require("bcryptjs");
-const Admins = require("../model/admin");
+const Admins = require("../models/admin");
 
 exports.allAdmins = async (req, res) => {
   if (req.role === "admin") {

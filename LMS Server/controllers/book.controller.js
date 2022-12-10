@@ -1,5 +1,5 @@
-const Books = require("../model/book");
-const Issues = require("../model/issuebook");
+const Books = require("../models/book");
+const Issues = require("../models/issuebook");
 
 exports.allBooks = async (req, res) => {
   if (req.role === "user" || req.role === "librarian" || req.role === "admin") {

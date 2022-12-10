@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const verify = require("./verifyToken");
-const IssueBooks = require("../model/issuebook");
+const IssueBooks = require("../models/issuebook");
 
 const userController = require("../controllers/user.controller");
 
