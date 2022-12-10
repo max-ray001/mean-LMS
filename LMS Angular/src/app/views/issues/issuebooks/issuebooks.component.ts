@@ -41,7 +41,6 @@ export class IssuebooksComponent implements OnInit {
     this.issueBooksService.deleteOneIssue(id).subscribe({
       next: (data: any) => {
         console.log(data);
-
         this.getIssues();
       },
       error: (err) => {

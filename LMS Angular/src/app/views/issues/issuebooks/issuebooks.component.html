@@ -16,7 +16,6 @@
               <th class="text-center">Fine Amount</th>
               <th class="text-center"></th>
               <th class="text-center"></th>
-              <th class="text-center"></th>
             </tr>
           </thead>
           <tbody>
@@ -50,7 +49,7 @@
                 <div class="text-center">{{ issuebook.status }}</div>
               </td>
               <td class="text-center">
-                <div *ngIf="issuebook.no_of_days != 'nil'; else elseBlock">
+                <div *ngIf="issuebook.no_of_days !== 'nil'; else elseBlock">
                   {{ issuebook.no_of_days + " " + "days" }}
                 </div>
                 <ng-template #elseBlock>
@@ -58,7 +57,7 @@
                 </ng-template>
               </td>
               <td class="text-center">
-                <div *ngIf="issuebook.fine_amount != 'nil'; else elseBlock">
+                <div *ngIf="issuebook.fine_amount !== 'nil'; else elseBlock">
                   {{ "Rs." + issuebook.fine_amount }}
                 </div>
                 <ng-template #elseBlock>
