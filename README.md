@@ -53,6 +53,12 @@
 
 ![image](https://user-images.githubusercontent.com/66171389/206867352-63a619cf-ca08-4e17-b4a3-a4bacdfb27cd.png)
 
+* Proxy Configuration:
+
+![image](https://user-images.githubusercontent.com/66171389/207591715-1470e712-6454-4d9f-93e6-2e739b75d6fc.png)
+
+![image](https://user-images.githubusercontent.com/66171389/207591835-cb8047b9-9c2b-4b7b-b817-8fbed26d1d3f.png)
+
 ***
 
 THE PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES ARE:
