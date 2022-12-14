@@ -207,7 +207,7 @@ API’s BASED ON ROLES:
 
 &emsp; GET - /api/librarians/userbooks (view details of books owned by a user)
 
-&emsp; GET - /api/librarians/bookusers/book_id (view details of users who own a bookwith same id)
+&emsp; GET - /api/librarians/bookusers/book_id (view details of users who own a book with same id)
 
 &emsp; GET - /api/librarians/status/pending (for getting pending status user details)
 
