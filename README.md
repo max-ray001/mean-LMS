@@ -55,7 +55,7 @@
 
 ***
 
-* PROXY CONFIGURATION:
+PROXY CONFIGURATION:
 
 ![image](https://user-images.githubusercontent.com/66171389/207591715-1470e712-6454-4d9f-93e6-2e739b75d6fc.png)
 
