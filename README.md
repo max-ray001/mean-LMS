@@ -73,15 +73,19 @@ THE PRIMARY FUNCTIONS OF MEAN STACK TECHNOLOGIES ARE:
 
 ***
 
+TEMPLATES:
+
+&nbsp; * [CoreUI Angular Admin Template](https://coreui.io/demos/angular/4.2/free/#/dashboard)
+
+&nbsp; * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+***
+
 TO KNOW MORE:
 
 &nbsp; * [Cloning the ropository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 &nbsp; * [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
-
-&nbsp; * [CoreUI Angular Admin Template](https://coreui.io/demos/angular/4.2/free/#/dashboard)
-
-&nbsp; * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 &nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
 
