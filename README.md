@@ -255,8 +255,8 @@ API’s BASED ON ROLES:
 
 &emsp; * [Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
 
-&emsp; * [HTTP Interceptors](https://www.youtube.com/watch?v=UrfhqE7I-3o) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
-
 &emsp; * [Login and Registration](https://www.youtube.com/watch?v=toRmWFzB6-E)
+
+&emsp; * [HTTP Interceptors](https://www.youtube.com/watch?v=UrfhqE7I-3o) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
 
 &emsp; * [Special Events Route Guard](https://www.youtube.com/watch?v=7L80dKtfHe0)
