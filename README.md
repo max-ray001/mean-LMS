@@ -89,19 +89,17 @@ TO KNOW MORE:
 
 &nbsp; * [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
-&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
-
-&nbsp; * [Moment.js](https://momentjs.com/)
-
-&nbsp; * [ES6](https://www.programiz.com/javascript/ES6)
+&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [ES6](https://www.programiz.com/javascript/ES6) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
 
 &nbsp; * [Node.js](https://www.tutorialsteacher.com/nodejs)  | [Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc) 
 
-&nbsp; * [Mongoose](https://mongoosejs.com/docs/api/model.html)
+&nbsp; * [MongoDB](https://www.mongodb.com/docs/manual/) | [Mongoose](https://mongoosejs.com/docs/api/model.html)
 
 &nbsp; * [TypeScript](https://www.typescripttutorial.net/)
 
 &nbsp; * [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form) 
+
+&nbsp; * [Moment.js](https://momentjs.com/)
 
 &nbsp; * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
