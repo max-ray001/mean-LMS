@@ -1,5 +1,5 @@
 # Library-Management-System
- It helps librarians to maintain database of new books and books that are borrowed by members along with their due dates. It tracks the records of the number of books in the library, number of books issued and returned and calculates fine charges, etc. 
+Librarians can maintain database of new books and books that are borrowed by members along with their due dates. Tracks the records of the number of books in the library, number of books issued and returned and calculates fine charges, etc. 
  
 (Implementation of Template driven & Reactive forms, Form validation, Password hashing, Role based access, JWT Authentication, AuthGuard, Middleware, HTTP Interceptors, Services, Proxy Configuration, HTTP requests, Controller, Components & Directives, Profile, Pagination, Pipes, Primary & Foreign Key, Populate, Add, Update, Delete, Bulk upload & Bulk delete concepts.)
 
