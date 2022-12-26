@@ -101,6 +101,8 @@ TO KNOW MORE:
 
 &nbsp; * [Moment.js](https://momentjs.com/)
 
+&nbsp; * [Add Bootstrap 5 to Angular](https://www.techiediaries.com/angular-bootstrap/#:~:text=3%2B%20Ways%20to%20Include%20Bootstrap%205%20In%20Your%20Angular%2015%20Project&text=Import%20the%20Bootstrap%20CSS%20file,json%20file%20of%20your%20project)
+
 &nbsp; * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
 &nbsp; * A common use of [JSON](https://jsonformatter.org/) is to exchange data to/from a web server.
