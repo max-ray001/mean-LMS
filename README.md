@@ -25,17 +25,19 @@ Librarians can maintain database of new books and books that are borrowed by mem
 
 ![image](https://user-images.githubusercontent.com/66171389/206864765-fffe2af4-f65f-4e55-9893-9cf058f831be.png)
 
-![image](https://user-images.githubusercontent.com/66171389/206864822-8e37471a-0ead-4080-b271-924f625ccd08.png)
+![image](https://user-images.githubusercontent.com/66171389/209830741-ecbbbc43-255e-458c-bc1b-a99288aca82a.png)
 
-![image](https://user-images.githubusercontent.com/66171389/206866343-b4153138-75d3-47b6-a850-9716adb43487.png)
+![image](https://user-images.githubusercontent.com/66171389/209831256-244f46ef-56cf-4641-8b08-f2f240578f07.png)
 
 &nbsp; * Librarians
 
-![image](https://user-images.githubusercontent.com/66171389/206865697-716514c4-9418-44e3-b14b-9b49df25cb36.png)
+![image](https://user-images.githubusercontent.com/66171389/209831494-4dc8d005-673a-4ebe-8401-4a193f00e691.png)
+
+![image](https://user-images.githubusercontent.com/66171389/209833599-11801853-f3b3-4c9e-8ce3-55c49576c93c.png)
 
 ![image](https://user-images.githubusercontent.com/66171389/206865748-1839edfd-42c4-4947-9190-bfd7d970ce78.png)
 
-![WhatsApp Image 2022-12-10 at 10 58 58 PM](https://user-images.githubusercontent.com/66171389/206867807-a0ce6a8b-32d5-4635-9005-777eeffb910e.jpeg)
+![WhatsApp Image 2022-12-28 at 8 13 15 PM](https://user-images.githubusercontent.com/66171389/209829314-9525f068-3ee8-4959-b407-b053cd2d20b3.jpeg)
 
 ![image](https://user-images.githubusercontent.com/66171389/206867856-a3dbe0c4-6b85-4f3b-9c81-6b9d81c810c8.png)
 
