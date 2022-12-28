@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 import { BrowserModule, Title } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -54,6 +53,9 @@ import { LoginService } from './views/pages/login/login.service';
 import { RegisterService } from './views/pages/register/register.service';
 import { UpdateissueService } from './views/issues/updateissue/updateissue.service';
 import { IssuebooksService } from './views/issues/issuebooks/issuebooks.service';
+import { AddmultiplebooksService} from './views/book/addmultiplebooks/addmultiplebooks.service';
+import { AddbookService } from './views/book/addbook/addbook.service';
+import { EditbookService } from './views/book/editbook/editbook.service';
 import { DefaultHeaderService } from 'src/app/containers/default-layout/default-header/default-header.service';
 import { ProfileComponent } from './views/profile/profile.component';
 import { AddissueService } from './views/issues/addissue/addissue.service';
@@ -85,7 +87,6 @@ const APP_CONTAINERS = [
     BrowserModule,
     BrowserAnimationsModule,
     AppRoutingModule,
-
     AvatarModule,
     BreadcrumbModule,
     FooterModule,
@@ -139,6 +140,9 @@ const APP_CONTAINERS = [
     AdduserService,
     AddlibrarianService,
     AddadminService,
+    AddmultiplebooksService,
+    AddbookService, 
+    EditbookService,
     // EditissueService,
     AddissueService,
     DefaultHeaderService,

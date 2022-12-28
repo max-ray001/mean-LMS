@@ -1,0 +1,97 @@
+<c-col xs="12">
+    <c-card class="mb-4">
+        <c-card-header>
+            <strong>Add Book Details</strong>
+        </c-card-header>
+        <c-card-body>
+            <form cForm [formGroup]="newbooksform">
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Title</label>
+                    <input cFormControl id="exampleFormControlInput1" type="text" formControlName="title" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Quantity</label>
+                    <input cFormControl id="exampleFormControlInput1" type="number" formControlName="quantity" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Author</label>
+                    <input cFormControl id="exampleFormControlInput1" type="text" formControlName="author" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Category</label>
+                    <input cFormControl id="exampleFormControlInput1" type="text" formControlName="category" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">ISBN</label>
+                    <input cFormControl id="exampleFormControlInput1" type="text" formControlName="isbn" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Publication Date</label>
+                    <input cFormControl id="exampleFormControlInput1" type="date" formControlName="publication_date" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Publisher</label>
+                    <input cFormControl id="exampleFormControlInput1" type="text" formControlName="publisher" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Available Books</label>
+                    <input cFormControl id="exampleFormControlInput1" type="number" formControlName="available_books" />
+                </div>
+               
+                <div class="row">
+                    <div class="col">
+                        <div class="mb-3">
+                            <button class="btn btn-primary" [disabled]="newbooksform.invalid"
+                                (click)="create()">Create</button>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="mb-3">
+                            <button class="btn btn-info" [disabled]="newbooksform.invalid" type="reset"
+                                (click)="addNewBook()">Add</button>
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+        </c-card-body>
+    </c-card>
+</c-col>
+
+<c-col xs="12">
+    <c-card class="mb-4" *ngIf="showAddedBookList">
+        <c-card-header>
+            <strong>Add Book List</strong>
+        </c-card-header>
+        <c-card-body>
+            <table cTable class="col-md-12 col-lg-12 ">
+                <thead cTableColor="dark">
+                    <tr>
+                        <th scope="col">Title</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Author</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">ISBN</th>
+                        <th scope="col">Publication Date</th>
+                        <th scope="col">Publisher</th>
+                        <th scope="col">Available Books</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let book of newBookArray; let i = index">
+                        <td>{{ book.title }}</td>
+                        <td>{{ book.quantity }}</td>
+                        <td>{{ book.author }}</td>
+                        <td>{{ book.category }}</td>
+                        <td>{{ book.isbn }}</td>
+                        <td>{{ book.publication_date }}</td>
+                        <td>{{ book.publisher }}</td>
+                        <td>{{ book.available_books }}</td>
+                        <td><a (click)="removeBook(i)"><svg cIcon name="cilTrash"></svg></a></td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="btn btn-primary" style="margin-top:10px" (click)="addMultipleBooks()">Create</button>
+        </c-card-body>
+    </c-card>
+</c-col>

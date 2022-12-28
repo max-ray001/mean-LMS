@@ -1,11 +1,17 @@
-<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+<c-col xs="12">
+  <c-card class="mb-4">
+    <c-card-header>
+      <strong>Edit Book Details</strong>
+    </c-card-header>
+    <c-card-body>
+  <form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">Title</label>
     <input cFormControl id="title" [(ngModel)]="title" name="title" />
   </div>
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">Quantity</label>
-    <input cFormControl id="quantity" [(ngModel)]="quantity" name="quantity" />
+    <input type="number" cFormControl id="quantity" [(ngModel)]="quantity" name="quantity" />
   </div>
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">Author</label>
@@ -22,6 +28,7 @@
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">Publication Date</label>
     <input
+      type="date"
       cFormControl
       id="publication_date"
       [(ngModel)]="publication_date"
@@ -42,6 +49,7 @@
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">Available Books</label>
     <input
+      type="number"
       cFormControl
       id="available_books"
       [(ngModel)]="available_books"
@@ -53,3 +61,6 @@
     <button type="submit" class="btn btn-success">Submit</button>
   </div>
 </form>
+</c-card-body>
+</c-card>
+</c-col>

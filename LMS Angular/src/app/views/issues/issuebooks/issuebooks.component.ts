@@ -24,7 +24,7 @@ export class IssuebooksComponent implements OnInit {
       next: (data: any) => {
         for (let each in data) {
           this.fullname =
-            data[each].user_id.first_name + ' ' + data[each].user_id.last_name;
+          data[each].user_id.first_name + ' ' + data[each].user_id.last_name;
           data[each].fullname = this.fullname;
           console.log(data);
         }

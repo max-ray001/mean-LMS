@@ -14,9 +14,10 @@ import {
 import { IconModule } from '@coreui/icons-angular';
 
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { AddmultiplebooksComponent } from './addmultiplebooks/addmultiplebooks.component';
 
 @NgModule({
-  declarations: [AddbookComponent, EditbookComponent, BooksComponent],
+  declarations: [AddbookComponent, EditbookComponent, BooksComponent, AddmultiplebooksComponent],
   imports: [
     CommonModule,
     BookRoutingModule,

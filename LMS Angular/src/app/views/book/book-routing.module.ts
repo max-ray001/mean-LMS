@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AddbookComponent } from './addbook/addbook.component';
 import { EditbookComponent } from './editbook/editbook.component';
 import { BooksComponent } from './books/books.component';
+import { AddmultiplebooksComponent } from './addmultiplebooks/addmultiplebooks.component';
 
 const routes: Routes = [
   {
@@ -10,6 +11,13 @@ const routes: Routes = [
     component: AddbookComponent,
     data: {
       title: 'Add Book',
+    },
+  },
+  {
+    path: 'addmultiplebooks',
+    component: AddmultiplebooksComponent ,
+    data: {
+      title: 'Add Multiple Books',
     },
   },
   {

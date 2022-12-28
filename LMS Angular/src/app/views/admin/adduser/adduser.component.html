@@ -1,4 +1,10 @@
-<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+<c-col xs="12">
+  <c-card class="mb-4">
+        <c-card-header>
+          <strong>Add User Details</strong>
+        </c-card-header>
+    <c-card-body>
+  <form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">First Name</label>
     <input cFormControl id="first name" ngModel name="first_name" />
@@ -24,15 +30,18 @@
     <input cFormControl id="address" ngModel name="address" />
   </div>
   <div class="mb-3">
-    <label cLabel for="exampleFormControlInput1">Roles</label>
-    <input cFormControl id="roles" ngModel name="roles" />
+    <label cLabel for="exampleFormControlInput1">Role</label>
+    <input type="number" cFormControl id="roles" ngModel name="roles" />
   </div>
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">Joined Date</label>
-    <input cFormControl id="joined_date" ngModel name="joined_date" />
+    <input type="date" cFormControl id="joined_date" ngModel name="joined_date" />
   </div>
 
   <div class="d-grid gap-2 col-1 mx-auto">
     <button type="submit" class="btn btn-success">Submit</button>
   </div>
 </form>
+</c-card-body>
+</c-card>
+</c-col>

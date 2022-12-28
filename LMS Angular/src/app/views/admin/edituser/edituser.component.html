@@ -1,4 +1,10 @@
-<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+<c-col xs="12">
+  <c-card class="mb-4">
+      <c-card-header>
+        <strong>Edit User Details</strong>
+      </c-card-header>
+    <c-card-body>
+  <form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">First Name</label>
     <input

@@ -98,6 +98,11 @@
               Add
             </button>
           </div>
+            <div class="d-grid col-2 mx-auto" *ngIf="currentActiveRole === 'librarian'">
+              <button type="button" class="btn btn-info" [routerLink]="['/book/addmultiplebooks']">
+                Add Multiple Books
+              </button>
+            </div>
           <br />
           <div class="d-grid col-3 mx-auto">
             <td *ngIf="currentActiveRole === 'librarian'">

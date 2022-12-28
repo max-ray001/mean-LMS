@@ -1,4 +1,10 @@
-<form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+<c-col xs="12">
+  <c-card class="mb-4">
+      <c-card-header>
+        <strong>Add Admin Details</strong>
+      </c-card-header>
+    <c-card-body>
+  <form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
   <div class="mb-3">
     <label cLabel for="exampleFormControlInput1">First Name</label>
     <input cFormControl id="first name" ngModel name="first_name" />
@@ -24,3 +30,6 @@
     <button type="submit" class="btn btn-success">Submit</button>
   </div>
 </form>
+</c-card-body>
+</c-card>
+</c-col>
