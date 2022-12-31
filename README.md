@@ -95,7 +95,7 @@ TO KNOW MORE:
 
 &nbsp; * [Node.js](https://www.tutorialsteacher.com/nodejs)  | [Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc) 
 
-&nbsp; * [MongoDB](https://www.mongodb.com/docs/manual/) | [MongoDB Interview Questions](https://www.interviewbit.com/mongodb-interview-questions/) | [Mongoose](https://mongoosejs.com/docs/api/model.html)
+&nbsp; * [MongoDB](https://www.mongodb.com/docs/manual/) | [MongoDB Questions](https://www.interviewbit.com/mongodb-interview-questions/) | [Mongoose](https://mongoosejs.com/docs/api/model.html)
 
 &nbsp; * [TypeScript](https://www.typescripttutorial.net/)
 
