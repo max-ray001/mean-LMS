@@ -87,7 +87,7 @@ TEMPLATES:
 
 TO KNOW MORE:
 
-&nbsp; * [Cloning the ropository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+&nbsp; * [Cloning the Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 &nbsp; * [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
@@ -99,11 +99,11 @@ TO KNOW MORE:
 
 &nbsp; * [TypeScript](https://www.typescripttutorial.net/)
 
+&nbsp; * [Add Bootstrap 5 to Angular](https://www.techiediaries.com/angular-bootstrap/#:~:text=3%2B%20Ways%20to%20Include%20Bootstrap%205%20In%20Your%20Angular%2015%20Project&text=Import%20the%20Bootstrap%20CSS%20file,json%20file%20of%20your%20project)
+
 &nbsp; * [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form) 
 
 &nbsp; * [Moment.js](https://momentjs.com/)
-
-&nbsp; * [Add Bootstrap 5 to Angular](https://www.techiediaries.com/angular-bootstrap/#:~:text=3%2B%20Ways%20to%20Include%20Bootstrap%205%20In%20Your%20Angular%2015%20Project&text=Import%20the%20Bootstrap%20CSS%20file,json%20file%20of%20your%20project)
 
 &nbsp; * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
