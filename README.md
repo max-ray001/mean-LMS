@@ -101,7 +101,7 @@ TO KNOW MORE:
 
 &nbsp; * [Add Bootstrap 5 to Angular](https://www.techiediaries.com/angular-bootstrap/#:~:text=3%2B%20Ways%20to%20Include%20Bootstrap%205%20In%20Your%20Angular%2015%20Project&text=Import%20the%20Bootstrap%20CSS%20file,json%20file%20of%20your%20project)
 
-&nbsp; * [Font Awesome](https://fontawesome.com/start) | [DaFont](https://www.dafont.com/) | [Google Fonts](https://fonts.google.com/about) 
+&nbsp; * [Font Awesome](https://fontawesome.com/start) | [DaFont](https://www.dafont.com/) | [Google Fonts](https://fonts.google.com/) 
 
 &nbsp; * [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form) 
 
