@@ -87,23 +87,27 @@ TEMPLATES:
 
 TO KNOW MORE:
 
-&nbsp; * [Cloning the ropository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+&nbsp; * [Cloning the Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 &nbsp; * [Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 
-&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [ES6](https://www.programiz.com/javascript/ES6) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
+&nbsp; * [JavaScript](https://javascript.info/) | [Object Oriented Programming](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/) | [JavaScript Events](https://flaviocopes.com/javascript-events/) | [JavaScript Eventloop]( https://flaviocopes.com/javascript-event-loop) | [Asynchronous Javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) | [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/) | [ES6](https://www.programiz.com/javascript/ES6) | [JavaScript Programs](https://www.programiz.com/javascript/examples) | [Time Complexity and Space Complexity](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp) | [JavaScript Compiler](https://www.programiz.com/javascript/online-compiler/) | [JavaScript Questions](https://github.com/sudheerj/javascript-interview-questions#table-of-contents)
 
 &nbsp; * [Node.js](https://www.tutorialsteacher.com/nodejs)  | [Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm) | [Express: req.params, req.query and req.body](https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc) 
 
-&nbsp; * [MongoDB](https://www.mongodb.com/docs/manual/) | [Mongoose](https://mongoosejs.com/docs/api/model.html)
+&nbsp; * [MongoDB](https://www.mongodb.com/docs/manual/) | [MongoDB Questions](https://www.interviewbit.com/mongodb-interview-questions/) | [Mongoose](https://mongoosejs.com/docs/api/model.html)
 
 &nbsp; * [TypeScript](https://www.typescripttutorial.net/)
 
-&nbsp; * [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form) 
+&nbsp; * [Add Bootstrap 5 to Angular](https://www.techiediaries.com/angular-bootstrap/#:~:text=3%2B%20Ways%20to%20Include%20Bootstrap%205%20In%20Your%20Angular%2015%20Project&text=Import%20the%20Bootstrap%20CSS%20file,json%20file%20of%20your%20project)
+
+&nbsp; * [Font Awesome](https://fontawesome.com/start) | [DaFont](https://www.dafont.com/) | [Google Fonts](https://fonts.google.com/) 
+
+&nbsp; * [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form)
+
+&nbsp; * [Add / Remove Multiple Input Fields Dynamically in Template Driven Form – Angular](https://prodevhub.com/add-remove-multiple-input-fields-dynamically-template-driven-angular)
 
 &nbsp; * [Moment.js](https://momentjs.com/)
-
-&nbsp; * [Add Bootstrap 5 to Angular](https://www.techiediaries.com/angular-bootstrap/#:~:text=3%2B%20Ways%20to%20Include%20Bootstrap%205%20In%20Your%20Angular%2015%20Project&text=Import%20the%20Bootstrap%20CSS%20file,json%20file%20of%20your%20project)
 
 &nbsp; * [JWT](https://jwt.io/) | [JSON Web Tokens](https://jwt.io/introduction) 
 
@@ -261,6 +265,8 @@ API’s BASED ON ROLES:
 
 &emsp; * [Login and Registration](https://www.youtube.com/watch?v=toRmWFzB6-E)
 
-&emsp; * [HTTP Interceptors](https://www.youtube.com/watch?v=UrfhqE7I-3o) | [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
+&emsp; * [HTTP Interceptors](https://www.youtube.com/watch?v=UrfhqE7I-3o) 
+
+&emsp; * [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
 
 &emsp; * [Special Events Route Guard](https://www.youtube.com/watch?v=7L80dKtfHe0)
