@@ -1,38 +1,28 @@
 <c-col xs="12">
-  <c-card class="mb-4">
-    <c-card-body>
-  <form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
-  <div class="mb-3">
-    <label cLabel for="exampleFormControlInput1">First Name</label>
-    <input
-      cFormControl
-      id="first name"
-      [ngModel]="_firstname"
-      name="first_name"
-    />
-  </div>
-  <div class="mb-3">
-    <label cLabel for="exampleFormControlInput1">Last Name</label>
-    <input
-      cFormControl
-      id="last name"
-      [(ngModel)]="_lastname"
-      name="last_name"
-    />
-  </div>
-  <div class="mb-3">
-    <label cLabel for="exampleFormControlInput1">Email</label>
-    <input cFormControl id="email" [(ngModel)]="_email" name="email" />
-  </div>
-  <div class="mb-3">
-    <label cLabel for="exampleFormControlInput1">Phone Number</label>
-    <input cFormControl id="phone no" [(ngModel)]="_phoneno" name="phone_no" />
-  </div>
+    <c-card class="mb-4">
+        <c-card-body>
+            <form cForm (ngSubmit)="onSubmit(f)" #f="ngForm">
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">First Name</label>
+                    <input cFormControl id="first name" [(ngModel)]="_firstname" name="first_name" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Last Name</label>
+                    <input cFormControl id="last name" [(ngModel)]="_lastname" name="last_name" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Email</label>
+                    <input cFormControl id="email" [(ngModel)]="_email" name="email" />
+                </div>
+                <div class="mb-3">
+                    <label cLabel for="exampleFormControlInput1">Phone Number</label>
+                    <input cFormControl id="phone no" [(ngModel)]="_phoneno" name="phone_no" />
+                </div>
 
-  <div class="d-grid gap-2 col-1 mx-auto">
-    <button type="submit" class="btn btn-success">Submit</button>
-  </div>
-</form>
-</c-card-body>
-</c-card>
+                <div class="d-grid gap-2 col-1 mx-auto">
+                    <button type="submit" class="btn btn-success">Submit</button>
+                </div>
+            </form>
+        </c-card-body>
+    </c-card>
 </c-col>
