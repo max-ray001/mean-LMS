@@ -103,9 +103,7 @@ TO KNOW MORE:
 
 &nbsp; * [Font Awesome](https://fontawesome.com/start) | [DaFont](https://www.dafont.com/) | [Google Fonts](https://fonts.google.com/) 
 
-&nbsp; * [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form)
-
-&nbsp; * [Add / Remove Multiple Input Fields Dynamically in Template Driven Form – Angular](https://prodevhub.com/add-remove-multiple-input-fields-dynamically-template-driven-angular)
+&nbsp; * [Angular](https://www.tektutorialshub.com/angular-tutorial/) | [Add / Remove Multiple Input Fields Dynamically in Template Driven Form – Angular](https://prodevhub.com/add-remove-multiple-input-fields-dynamically-template-driven-angular) | [Angular Questions](https://github.com/sudheerj/angular-interview-questions#how-do-you-reset-the-form)
 
 &nbsp; * [Moment.js](https://momentjs.com/)
 
@@ -267,6 +265,6 @@ API’s BASED ON ROLES:
 
 &emsp; * [HTTP Interceptors](https://www.youtube.com/watch?v=UrfhqE7I-3o) 
 
-&emsp; * [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
-
 &emsp; * [Special Events Route Guard](https://www.youtube.com/watch?v=7L80dKtfHe0)
+
+&emsp; * [ng-select dropdown in Angular - Install, Change, Disable, Read only, Multi select demo with Forms](https://www.youtube.com/watch?v=w5zOhP8o4wY) | [How to Bind/Get selected value/Set Default in SelectList](https://www.youtube.com/watch?v=8ZlrORYOl_0)
